@@ -17,28 +17,6 @@
 
 
 {
-"title": "About the theme&#39;s author",
-"tags": "getting_started",
-"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
-"url": "mydoc_about.html",
-"summary": "I have used this theme for projects that I've worked on as a professional technical writer."
-}
-,
-
-
-
-{
-"title": "About Ruby, Gems, Bundler, and other prerequisites",
-"tags": "getting_startedtroubleshooting",
-"keywords": "",
-"url": "mydoc_about_ruby_gems_etc.html",
-"summary": "Ruby is a programming language you must have on your computer in order to build Jekyll locally. Ruby has various gems (or plugins) that provide various functionality. Each Jekyll project usually requires certain gems."
-}
-,
-
-
-
-{
 "title": "10. Configure the build scripts",
 "tags": "publishing",
 "keywords": "build scripts, generating outputs, building, publishing",
@@ -61,72 +39,6 @@
 
 
 {
-"title": "Install Jekyll on Mac",
-"tags": "getting_startedtroubleshooting",
-"keywords": "",
-"url": "mydoc_install_jekyll_on_mac.html",
-"summary": "Installation of Jekyll on Mac is usually less problematic than on Windows. However, you may run into permissions issues with Ruby that you must overcome. You should also use Bundler to be sure that you have all the required gems and other utilities on your computer to make the project run."
-}
-,
-
-
-
-{
-"title": "Install Jekyll on Windows",
-"tags": "",
-"keywords": "jekyll on windows, pc, ruby, ruby dev kit",
-"url": "mydoc_install_jekyll_on_windows.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Series demo 1",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo1.html",
-"summary": "This is the first post in the series."
-}
-,
-
-
-
-{
-"title": "Series demo 2",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo2.html",
-"summary": "This is the second post in the series."
-}
-,
-
-
-
-{
-"title": "Series demo 3",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo3.html",
-"summary": "This is the third post in the series."
-}
-,
-
-
-
-{
-"title": "Series demo 4",
-"tags": "",
-"keywords": "",
-"url": "mydoc_seriesdemo4.html",
-"summary": "This is the fourth post in the series."
-}
-,
-
-
-
-{
 "title": "Special layouts overview",
 "tags": "special_layouts",
 "keywords": "layouts, information design, presentation",
@@ -138,33 +50,22 @@
 
 
 {
-"title": "Support",
-"tags": "getting_startedtroubleshooting",
-"keywords": "questions, troubleshooting, contact, support",
-"url": "mydoc_support.html",
-"summary": "Contact me for any support issues."
-}
-,
-
-
-
-{
-"title": "Supported features",
-"tags": "getting_started",
-"keywords": "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits",
-"url": "mydoc_supported_features.html",
-"summary": "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
-}
-,
-
-
-
-{
 "title": "Tag archives overview",
 "tags": "navigation",
 "keywords": "archives, tagging",
 "url": "mydoc_tag_archives_overview.html",
 "summary": "This is an overview to the tag archives section. Really the only reason this section is listed explicitly in the TOC here is to demonstrate how to add a third-level to the navigation."
+}
+,
+
+
+
+{
+"title": "How to Contribute",
+"tags": "getting_started",
+"keywords": "contribution guide",
+"url": "overview_how_to_contribute.html",
+"summary": "WIP"
 }
 ,
 

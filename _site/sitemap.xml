@@ -34,18 +34,6 @@
   
   
   <url>
-    <loc>http://localhost:4000/mydoc_about.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_about_ruby_gems_etc.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/mydoc_build_scripts.html</loc>
   </url>
   
@@ -58,61 +46,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/mydoc_install_jekyll_on_mac.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_install_jekyll_on_windows.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo1.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo2.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo3.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_seriesdemo4.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/mydoc_special_layouts.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/mydoc_support.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/mydoc_supported_features.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/mydoc_tag_archives_overview.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/overview_how_to_contribute.html</loc>
   </url>
   
   
