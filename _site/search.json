@@ -1,0 +1,153 @@
+[
+
+
+
+
+
+
+{
+"title": "Resources Overview",
+"tags": "getting_started",
+"keywords": "sample homepage",
+"url": "index.html",
+"summary": "Summary goes here"
+}
+,
+
+
+
+{
+"title": "10. Configure the build scripts",
+"tags": "publishing",
+"keywords": "build scripts, generating outputs, building, publishing",
+"url": "mydoc_build_scripts.html",
+"summary": "You need to customize the build scripts. These script automate the publishing of your PDFs and web outputs through shell scripts on the command line."
+}
+,
+
+
+
+{
+"title": "Excluding files",
+"tags": "single_sourcing",
+"keywords": "exclusion, separating outputs, removing files from outputs",
+"url": "mydoc_exluding_files.html",
+"summary": "By default, all the files in your Jekyll project are included in the output (this differs from DITA projects, which don't include files unless noted on the map). If you're single sourcing, you'll need to exclude the files that shouldn't be included in the output. The sidebar doesn't control inclusion or exclusion."
+}
+,
+
+
+
+{
+"title": "Special layouts overview",
+"tags": "special_layouts",
+"keywords": "layouts, information design, presentation",
+"url": "mydoc_special_layouts.html",
+"summary": "This theme has a few special layouts. Special layouts include the JS files they need directly in the page. The JavaScript for each special layout does not load by default for every page in the site."
+}
+,
+
+
+
+{
+"title": "Tag archives overview",
+"tags": "navigation",
+"keywords": "archives, tagging",
+"url": "mydoc_tag_archives_overview.html",
+"summary": "This is an overview to the tag archives section. Really the only reason this section is listed explicitly in the TOC here is to demonstrate how to add a third-level to the navigation."
+}
+,
+
+
+
+{
+"title": "How to Contribute",
+"tags": "getting_started",
+"keywords": "contribution guide",
+"url": "overview_how_to_contribute.html",
+"summary": "WIP"
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "assetscssstyle.css",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

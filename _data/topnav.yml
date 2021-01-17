@@ -1,0 +1,33 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Main Site
+      external_url: https://keycult.com
+    - title: GitHub
+      external_url: https://github.com/keycult/keycult-resources
+    - title: Keycult Discord
+      external_url: https://keycult.com/discord
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Product Pages
+      folderitems:
+        - title: No. 1 Rev. 1
+          external_url: https://keycult.com/collections/june-2019-release
+        - title: No. 1/60 & 1/65
+          external_url: https://keycult.com/collections/january-2019-release
+        - title: No. 1/60 Rev. 1 & 1/65 Rev. 1
+          external_url: https://keycult.com/collections/december-2019-preorder
+        - title: No. 1 Rev. 2
+          external_url: https://keycult.com/collections/june-2020-preorder
+        - title: No. 2
+          external_url: https://keycult.com/collections/april-2019-release
+        - title: No. 2 Rev. 1
+          external_url: https://keycult.com/collections/july-2019-preorder
+        - title: No. 2/65
+          external_url: https://keycult.com/collections/rolling-releases/products/no-2-65
+
