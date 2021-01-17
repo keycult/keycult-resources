@@ -5,8 +5,8 @@
         <description>This is intended to be an easyily accesible way to store and distribute information for Keycult products</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 Jan 2021 13:19:24 -0800</pubDate>
-        <lastBuildDate>Sun, 17 Jan 2021 13:19:24 -0800</lastBuildDate>
+        <pubDate>Sun, 17 Jan 2021 13:22:30 -0800</pubDate>
+        <lastBuildDate>Sun, 17 Jan 2021 13:22:30 -0800</lastBuildDate>
         <generator>Jekyll v3.9.0</generator>
         
         <item>
