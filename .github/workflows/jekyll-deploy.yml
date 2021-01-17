@@ -1,0 +1,16 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: helaili/jekyll-action@2.0.5
+      env:
+        JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
