@@ -112,8 +112,8 @@ description: "This is intended to be an easyily accesible way to store and distr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://resources.keycult.com/
-baseurl: /keycult-resources
+# url: https://resources.keycult.com/
+# baseurl: /keycult-resources
 
 
 github: [metadata]
