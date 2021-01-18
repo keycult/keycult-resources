@@ -1,6 +1,6 @@
 ---
 title: "Keycult Resources Overview"
-keywords: sample homepage
+keywords: Homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
@@ -15,14 +15,8 @@ Welcome to the new and improved Keycult resources site! As our brand has grown a
 
 The Idea behind this website is to organize resources and information in a more user friendly way. While this site was created by Keycult and the Keeper/Moderation team, anyone is welcome to contribute through our GitHub. If you find something that is incorrect or out of date, help the person after you by submitting a pull request (or at the very least letting someone know). You can easily let us know about issues with the information by submitted an "Issue" on the GitHub repository.
 
-### 1. Sub Heading 1
+## Common Items
 
-Content goes here!
+### Plate Files
 
-### 2. Sub Heading
-
-Content goes here!
-
-## Heading 2
-
-Content goes here!
+### VIA Configurator

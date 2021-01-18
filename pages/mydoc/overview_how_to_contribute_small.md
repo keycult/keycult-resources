@@ -4,7 +4,7 @@ keywords: contribution guide
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: overview_how_to_contribute_small.html
-summary: WIP
+summary: This page explains how to quickly make a small change to the site with little effort
 ---
 
 ## Getting Started
@@ -29,5 +29,4 @@ If you are making the changes on the GitHub website, the next part might seem co
 
 > *Add picture here*
 
-
-Once your changes are approved, you will see your changes here! Thanks for helping out the community! 
+Once your changes are approved, you will see your changes here! Thanks for helping out the community!
