@@ -13,7 +13,7 @@ summary: "This site is meant to be a community driven resource related to Keycul
 
 Welcome to the new and improved Keycult resources site! As our brand has grown and evolved, we realize there is an increasing amount of information spread between our website and Discord Server. While this information is easily accesible if you know what you are looking for, for someone unfamiliar, the task of finding information can be quite daunting.
 
-The Idea behind this website is to organize resources and information in a more user friendly way. While this site was created by Keycult and the Keeper/Moderation team, anyone is welcome to contribute through our GitHub. If you find something that is incorrect or out of date, help the person after you by submitting a pull request (or at the very least letting someone know). 
+The Idea behind this website is to organize resources and information in a more user friendly way. While this site was created by Keycult and the Keeper/Moderation team, anyone is welcome to contribute through our GitHub. If you find something that is incorrect or out of date, help the person after you by submitting a pull request (or at the very least letting someone know). You can easily let us know about issues with the information by submitted an "Issue" on the GitHub repository.
 
 ### 1. Sub Heading 1
 
