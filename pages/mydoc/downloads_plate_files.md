@@ -19,9 +19,9 @@ Many people have asked for plate files for past Keycult keyboards for their own 
 
 With that out of the way, plate files can be downloaded below:
 
-* Original No. 1 TKL Plate (2017 Private group buy)
-* No. 1 Rev. 1 TKL Plate
-* No. 1/60 Plate
+* [Original No. 1 TKL Plate (2017 Private group buy)](/plate_files/No1TKL-2017-Plate.zip)
+* [No. 1 Rev. 1 TKL Plate](/plate_files/No1Rev1TKL-Plate.zip)
+* [No. 1/60 Plate](/plate_files/No160-Plate.zip)
 * No. 1/60 Rev. 1 Plates (With and without leaf spring + partial)
 * No. 1/65 Plate
 * No. 1/65 Rev. 1 Plates (With and without leaf spring + partial)
