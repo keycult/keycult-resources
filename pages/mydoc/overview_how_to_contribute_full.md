@@ -7,7 +7,7 @@ permalink: overview_how_to_contribute_full.html
 summary: This page will explain how to get the Jekyll enviornment setup on your local machine, so you can test changes like creating new pages, changing navigation, etc.
 ---
 
-{% include note.html content="This is the full on guide to contributing large changes to the site. If you only want to make small changes, please see <a href='https://resources.keycult.com/overview_how_to_contribute_small.html'>How to Contribute - Small</a>" %}
+{% include note.html content="This is the full on guide to contributing large changes to the site. If you only want to make small changes, please see <a href='/overview_how_to_contribute_small.html'>How to Contribute - Small</a>" %}
 
 This website is created using a simple static website framework called [Jekyll](https://jekyllrb.com/). If you want to develop locally and iterate quickly, it is recommended that you install Jekyll locally on your machine, so that you can test large changes locally before submiting to the repository. This guide will walk you through easily getting your enviornment setup and how to make changes.
 

@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Keycult Resources 
-  version: 0.1
+  product: Site Navigation
+  version: 
   folders:
 
   - title:
@@ -21,8 +21,8 @@ entries:
 
   - title: Overview
     output: web, pdf
-    folderitems:
 
+    folderitems:
     - title: Introduction
       url: /index.html
       output: web, pdf
@@ -36,52 +36,52 @@ entries:
       url: /overview_how_to_contribute_full.html
       output: web, pdf
 
+  - title: Specifications
+    output: web, pdf
+
+    folderitems:
+    - title: Keycult No. 1 TKL
+      url: /specs_no_1_tkl.html
+      output: web, pdf
+    - title: Keycult No. 1/60 & No. 1/65
+      url: /specs_no_1_60_65.html
+      output: web, pdf
+    - title: Keycult No. 2 TKL
+      url: /specs_no_2_tkl.html
+      output: web, pdf
+    - title: Keycult No. 2/65
+      url: /specs_no_2_65.html
+      output: web, pdf
+
+  - title: Downloads
+    output: web, pdf
+
+    folderitems:
+    - title: Plate Files
+      url: /downloads_plate_files.html
+      output: web, pdf
+    - title: "???"
+      external_url: https://www.keycult.icu/
+      output: web
+
+  - title: FAQs
+    output: web, pdf
+
+    folderitems:
+    - title: Keycult FAQ
+      url: /faq_keycult_faq.html
+      output: web, pdf
+    - title: Raffle FAQ
+      url: /faq_raffle_faq.html
+      output: web, pdf
+
   - title: Troubleshooting
     output: web, pdf
 
     folderitems:
-
-    - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
+    - title: PCB Issues
+      url: /troubleshooting_pcb_issues.html
       output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-
-        - title: Publishing pages
-          url: /tag_publishing.html
-          output: web
-
-        - title: Special layout pages
-          url: /tag_special_layouts.html
-          output: web
-
-        - title: Collaboration pages
-          url: /tag_collaboration.html
-          output: web
-
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
-          output: web
+    - title: Build Issues
+      url: /troubleshooting_build_issues.html
+      output: web, pdf
