@@ -28,8 +28,12 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: How to Contribute
-      url: /overview_how_to_contribute.html
+    - title: How to Contribute - Small Changes
+      url: /overview_how_to_contribute_small.html
+      output: web, pdf
+    
+    - title: How to Contribute - Full Guide
+      url: /overview_how_to_contribute_full.html
       output: web, pdf
 
   - title: Troubleshooting
