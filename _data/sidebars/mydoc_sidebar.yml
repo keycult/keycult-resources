@@ -52,6 +52,9 @@ entries:
     - title: Keycult No. 2/65
       url: /specs_no_2_65.html
       output: web, pdf
+    - title: Accessories
+      url: /specs_accessories.html
+      output: web, pdf
 
   - title: Downloads
     output: web, pdf
