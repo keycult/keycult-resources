@@ -1,8 +1,6 @@
-name: Jekyll site CI
+name: Jekyll CI on PR Build
 
 on:
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
