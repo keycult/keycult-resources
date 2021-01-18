@@ -1,3 +1,6 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 *.code-workspace
 .DS_Store
-_site/*
