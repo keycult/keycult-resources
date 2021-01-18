@@ -25,7 +25,7 @@ summary: Specifications for Keycult Accessories
 - 65% Alu - oz // Brass - oz
 - TKL Alu - oz // Brass - oz
 
-## Discontinued
+## Discontinued Accessories
 
 The following are no longer produced
 
@@ -36,7 +36,7 @@ The following are no longer produced
   - Alu/Black
   - Alu/Navy
   - Brass/Black infill 
-  - Brass/White infill 
+  - Brass/White infill (still in production)
 - Salvun x Keycult ICU key caps
   - Normal ICU 
   - Splatter (Red, White, Purple, Green)
