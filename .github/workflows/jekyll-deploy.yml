@@ -2,7 +2,7 @@ name: Jekyll CD - Build and Deploy
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:

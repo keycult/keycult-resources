@@ -4,4 +4,4 @@ This repository serves as a community-maintained replacement to the old resource
 
 This is a work in progress, and show be up and running soon!
 
-Published branch: `master`
+Published branch: `main`
