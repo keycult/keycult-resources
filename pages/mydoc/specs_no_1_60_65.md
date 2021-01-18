@@ -7,8 +7,6 @@ permalink: specs_no_1_60_65.html
 summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 ---
 
-## Specifications
-
 ## **No. 1/60**
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/no.160_al_black_lgrey_front_1_of_1_1696x1152.jpg?v=1546389262)
 
