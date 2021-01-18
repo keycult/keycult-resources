@@ -19,4 +19,6 @@ The Idea behind this website is to organize resources and information in a more 
 
 ### Plate Files
 
+[Plate File Download Page](/downloads_plate_files.html)
+
 ### VIA Configurator

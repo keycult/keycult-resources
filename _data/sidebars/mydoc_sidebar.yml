@@ -56,6 +56,17 @@ entries:
       url: /specs_accessories.html
       output: web, pdf
 
+  - title: Raffle Info
+    output: web, pdf
+
+    folderitems:
+    - title: Information and Rules
+      url: /raffle_info_rules.html
+      output: web, pdf
+    - title: Troubleshooting
+      url: /raffle_troubleshooting.html
+      output: web, pdf
+
   - title: Downloads
     output: web, pdf
 
