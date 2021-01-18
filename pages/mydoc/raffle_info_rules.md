@@ -10,8 +10,8 @@ summary: Explanation of the Keycult raffle system and the rules about entering r
 ## Keycult Raffle Info, Tips & Troubleshooting 
 Starting in August 2020, Keycult is using a new raffle system integrated with our Discord chat server. Important links:
 
-- Join the Discord server: https://discord.gg/keycult
-- Authenticate with your Discord account on https://raffle.keycult.com
+- Join the Discord server: <https://discord.gg/keycult>
+- Authenticate with your Discord account on <https://raffle.keycult.com>
 
 The purpose of this document is to answer common questions and provide useful troubleshooting tips to those who might be having trouble.
 
@@ -28,7 +28,7 @@ These rules apply to all raffles conducted by Keycult. Failure to abide by them 
 
 ## Information we collect and how we use it
 
-You can read our full Privacy Notice at https://raffle.keycult.com, but here’s an overview of the information we collect and how we use it:
+You can read our full Privacy Notice at <https://raffle.keycult.com>, but here’s an overview of the information we collect and how we use it:
 
-- Discord username and Email: Saved on the raffle site and used to contact you with the results of the raffle after it has concluded. We will not use this information to send marketing emails unless you have explicitly opted into that at https://keycult.com/updates.
+- Discord username and Email: Saved on the raffle site and used to contact you with the results of the raffle after it has concluded. We will not use this information to send marketing emails unless you have explicitly opted into that at <https://keycult.com/updates>.
 - Discord servers you are a part of: This information is not stored on our servers and is only used to verify your standing in the Keycult discord server.
