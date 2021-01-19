@@ -7,10 +7,4 @@ permalink: troubleshooting_build_issues.html
 summary: "Common Keycult build related issues and how to solve them"
 ---
 
-## Content
-
-Content
-
-## Item 2
-
-Content
+Coming soon...(tm)
