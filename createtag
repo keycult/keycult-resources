@@ -38,7 +38,6 @@ folder: tags
 
 {% include taglogic.html %}
 
-{% include links.html %}
 EOF
 
 echo "  - ${tag}" >> _data/tags.yml
