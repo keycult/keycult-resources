@@ -8,6 +8,7 @@ toc: false
 summary: Common raffle questions 
 ---
 
+## Pre Raffle 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -133,6 +134,65 @@ summary: Common raffle questions
                         <div id="collapseNine" class="panel-collapse collapse">
                             <div class="panel-body">
                                 No. To enter the raffle you do not need your credit or debit card. If you are chosen in a raffle, you will then need your credit/debit card to pay your invoice.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
+
+## Post Raffle
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseTen">How will I know if I won or lost?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTen" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                All communication about if you have won or lost will happen over email. If you won the raffle, you will receive an email congratulating you, and a link to view your Shopify invoice. If you lost, we will send you an email as well to not keep you in the dark.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseEleven">When will winners be selected? / When will we receive an invoice?
+</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEleven" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Winners will be selected and sent an invoice usually within 24hrs of the raffle closing. Hang out and pay attention to #announcements on Discord.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseTwelve">How long do I have to pay my invoice?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwelve" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                You have 24 hours upon receiving your invoice to pay. If you run into an issue, or cannot pay within 24 hours for whatever reason, please respond to your invoice or email support@keycult.com as soon as you can. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseThirteen">Help! My configuration is wrong!</a>
+                            </h4>
+                        </div>
+                        <div id="collapseThirteen" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Please ensure that your configuration is correct before submitting your raffle entry. Because we have a limited selection of extras, all kits are allocated when we run the raffle. If you need additional add-ons (plates or PCBs), please reply to your invoice email only if you have won the raffle.
                             </div>
                         </div>
                     </div>
