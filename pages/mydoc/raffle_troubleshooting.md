@@ -1,7 +1,7 @@
 ---
 title: "Raffle Troubleshooting"
-keywords: raffles
-tags: [faq]
+keywords: raffle
+tags: [raffle]
 sidebar: mydoc_sidebar
 permalink: raffle_troubleshooting.html
 summary: Common Keycult raffle troubleshooting steps
@@ -31,4 +31,4 @@ There are a few ways to check:
 
 ## Can't see the raffle? "Looks like we're not currently running any raffles"
 
-Try a hard-refresh using Ctrl-Shift-R.
+Try a hard-refresh using `Ctrl-Shift-R`.
