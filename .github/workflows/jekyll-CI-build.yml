@@ -23,7 +23,7 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
         name: SiteForTest
-        path: ${{ github.workspace }}/*
+        path: ${{ github.workspace }}
 
   HTMLProofer:
 
