@@ -1,4 +1,4 @@
-name: Jekyll CI - Build
+name: Jekyll CI
 
 on:
   pull_request:
@@ -24,19 +24,4 @@ jobs:
       with:
         name: SiteForTest
         path: ${{ github.workspace }}
-
-  HTMLProofer:
-
-    runs-on: ubuntu-latest
-
-    needs: page-build
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v1.0.0
-        with:
-          name: SiteForTest
-
-      - name: HTMLProofer
-        uses: chabad360/htmlproofer@v1.1
-        with:
-            directory: "./SiteForTest"
+        retention-days: 7
