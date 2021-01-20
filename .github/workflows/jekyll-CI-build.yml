@@ -19,13 +19,22 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
-    jobs:
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: ForTest
+        path: JekyllBuildArtifacts
 
   HTMLProofer:
 
     runs-on: ubuntu-latest
 
+    needs: build
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v1.0.0
+        with:
+          name: ForTest
     - name: HTMLProofer
       uses: chabad360/htmlproofer@v1.1
       with:
