@@ -22,7 +22,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v1.0.0
       with:
-        name: ForTest
+        name: SiteForTest
         path: _site
 
   HTMLProofer:
@@ -34,9 +34,9 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v1.0.0
         with:
-          name: ForTest
+          name: SiteForTest
 
       - name: HTMLProofer
         uses: chabad360/htmlproofer@v1.1
         with:
-            directory: "_site"
+            directory: "./SiteForTest"
