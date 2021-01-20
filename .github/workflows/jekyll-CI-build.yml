@@ -35,8 +35,8 @@ jobs:
         uses: actions/download-artifact@v1.0.0
         with:
           name: ForTest
-          
-    - name: HTMLProofer
-      uses: chabad360/htmlproofer@v1.1
-      with:
-          directory: "./_site"
+
+      - name: HTMLProofer
+        uses: chabad360/htmlproofer@v1.1
+        with:
+            directory: "./_site"
