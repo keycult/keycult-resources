@@ -8,7 +8,7 @@ on:
   - cron: "0 10 * * *"
 
 jobs:
-  build:
+  page-build:
 
     runs-on: ubuntu-latest
 
@@ -19,3 +19,14 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod a+w /srv/jekyll/Gemfile.lock && chmod 777 /srv/jekyll && jekyll build --future"
+    jobs:
+
+  HTMLProofer:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: HTMLProofer
+      uses: chabad360/htmlproofer@v1.1
+      with:
+          directory: "./_site"
