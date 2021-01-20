@@ -1,4 +1,4 @@
-![Jekyll CI - Build](https://github.com/keycult/keycult-resources/workflows/Jekyll%20CI%20-%20Build/badge.svg) ![Jekyll CI - HTMLProofer](https://github.com/keycult/keycult-resources/workflows/Jekyll%20CI%20-%20HTMLProofer/badge.svg) ![Jekyll CD - Build and Deploy](https://github.com/keycult/keycult-resources/workflows/Jekyll%20CD%20-%20Build%20and%20Deploy/badge.svg)
+![Jekyll CI](https://github.com/keycult/keycult-resources/workflows/Jekyll%20CI/badge.svg) ![Jekyll CD - Build and Deploy](https://github.com/keycult/keycult-resources/workflows/Jekyll%20CD%20-%20Build%20and%20Deploy/badge.svg)
 
 # [resources.keycult.com](https://resources.keycult.com)
 
