@@ -11,6 +11,6 @@ jobs:
 
     steps:
     - name: HTMLProofer
-    - uses: chabad360/htmlproofer@v1.1
-    with:
+      uses: chabad360/htmlproofer@v1.1
+      with:
           directory: "./_site"
