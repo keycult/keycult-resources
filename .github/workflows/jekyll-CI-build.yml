@@ -1,4 +1,4 @@
-name: Jekyll CI on PR
+name: Jekyll CI - Build
 
 on:
   pull_request:

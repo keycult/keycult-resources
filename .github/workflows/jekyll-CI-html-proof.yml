@@ -1,0 +1,16 @@
+name: Jekyll CI - HTMLProofer
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: HTMLProofer
+    - uses: chabad360/htmlproofer@v1.1
+    with:
+          directory: "./_site"
