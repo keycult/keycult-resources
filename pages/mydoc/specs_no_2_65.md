@@ -14,7 +14,7 @@ summary: Specifications for the Keycult No. 2/65
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/No.2-65-6_1440x1440.jpg?v=1607199054)
 
 ### Measurements
-- TBD
+- 315mm (L) x 120mm (W) x 22mm (FH) x 38mm (RH)
 
 ### Weights
 - Alu/Alu assembled w/ keycaps - 3lbs 11oz / 1.67kg
