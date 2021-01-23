@@ -201,7 +201,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapseFourteen" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Unless otherwise mentioned, all live updates will take plates on every other Thursday at 4pm Eastern time. Feel free to join us at <a href="https://twitch.tv/keycult" target="_blank">https://twitch.tv/keycult</a> for our other streams as well.
+                                Unless otherwise mentioned, all live updates will take place on every other Thursday at 4pm Eastern time. Feel free to join us at <a href="https://twitch.tv/keycult" target="_blank">https://twitch.tv/keycult</a> for our other streams as well.
                             </div>
                         </div>
                     </div>
