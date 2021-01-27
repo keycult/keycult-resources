@@ -219,5 +219,18 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                     </div>
                     <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSixteen">Do millmax sockets work with Keycult PCBs?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseSixteen" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                We have not done any internal testing but a few users have found that millmax 7305 works well whereas 0305 has some fitment issues with the bottom row touching the case. Millmax at your own risk!
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
