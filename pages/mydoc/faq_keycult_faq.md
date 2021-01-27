@@ -222,7 +222,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseEight">Do millmax sockets work with Keycult PCBs?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSixteen">Do millmax sockets work with Keycult PCBs?</a>
                             </h4>
                         </div>
                         <div id="collapseSixteen" class="panel-collapse collapse">
