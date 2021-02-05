@@ -27,3 +27,4 @@ With that out of the way, plate files can be downloaded below:
 * [No. 1/65 Rev. 1 Plates (With and without leaf spring + partial)](/plate_files/No165-Rev1-Plates.zip)
 * [No. 2 Plate (Winkeyless)](/plate_files/No2TKL-Plate.zip)
 * [No. 2 Rev. 1 Plate (With and without leaf spring)](/plate_files/No2Rev1TKL-Plate.zip)
+* [No. 2/65 Plates (With and without leaf spring + partial)](/plate_files/No265-Plates.zip)
