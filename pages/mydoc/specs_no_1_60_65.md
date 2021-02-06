@@ -8,12 +8,15 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 ---
 
 ## **No. 1/60**
+
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/no.160_al_black_lgrey_front_1_of_1_1696x1152.jpg?v=1546389262)
 
 ### Measurements
+
 - 294mm (L) x 111mm (W) x 22mm (FH) x 38mm (RH)
 
 ### Weights
+
 - Alu/Alu assembled w/ key caps - 2lbs 12 oz / 1.25kg
 - Alu/Brass - Unbuilt - 4lbs 5oz / 1.96kg
 
@@ -27,12 +30,24 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/collections/DSC_3140-web_1088x736.jpg?v=1551904706)
 
 ### Measurements
+
 - 294mm (L) x 111mm (W) x 22mm (FH) x 38mm (RH)
 
 ### Weights
+
 - Alu/Alu - Unbuilt - 2lbs 8.5oz / 1.15kg
 - Alu/Brass - Unbuilt - 4lbs 8.25oz / 2.05kg
 
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt65a-layout_1696x1152.jpg?v=1578518041)
+
+## Changelog
+
+### No. 1/60 and 1/65 Rev. 1
+
+Much like the TKL release in June, this release is a revision to the original. While the plates are compatible, no other case components are. We've taken the lessons learned from a year of designing and producing keyboards and wrapped them up in this revision. Changes include:
+
+- PTFE plate-alignment pins
+- Leaf-spring plate for added flex
+- VIA-compatible WT60-A and USB-C daughterboard designed by Wilba
