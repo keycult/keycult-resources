@@ -232,5 +232,18 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                     </div>
                     <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSeventeen">How do I change the address on my order?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseSeventeen" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Please email support@keycult.com and put "Address change" in the subject. Make sure to add order number in the email itself too!
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
