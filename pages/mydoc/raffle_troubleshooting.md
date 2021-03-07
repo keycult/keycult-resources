@@ -14,10 +14,12 @@ Problem: You have created a Discord account but are unable to successfully authe
 Steps to take:
 
 1. Ensure you have joined the Keycult Discord server at <https://discord.gg/keycult>
-2. Ensure that you have agreed to our Server Rules by reacting with ✅ to the last message in the #welcome channel. Depending on when you joined the server, you may have to verify your account with your phone number.
-3. Log out on <https://raffle.keycult.com> and log back in with your Discord account.
+2. Ensure that you have agreed to our Server Rules by completing the Discord onboarding for the server. If you see the message below, please click the blue "Complete" button and agree to the rules.
+![](/images/NeedToVerify.png)
+3. Ensure that you have DM's enabled for members of the Keycult server.
+4. Log out on <https://raffle.keycult.com> and log back in with your Discord account.
 
-![](https://paper-attachments.dropbox.com/s_DB615EF798A0E0E3033412815D55EE2235671FAAFEBB8E7E495D8D4AF452032E_1596477948290_image.png)
+
 
 
 ## Confirming access to raffles
