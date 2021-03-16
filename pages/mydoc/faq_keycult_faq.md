@@ -240,7 +240,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapseSeventeen" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Please email support@keycult.com and put "Address change" in the subject. Make sure to add order number in the email itself too!
+                                Please either respond to your order confirmation email, or send an email support@keycult.com and put "Address change" in the subject. Make sure to add order number in the email itself too!
                             </div>
                         </div>
                     </div>
