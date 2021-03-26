@@ -17,7 +17,11 @@ Many people have asked for plate files for past Keycult keyboards for their own 
 
 * **No warranty provided**: Keycult provides no warranty for these files. You agree to take full responsibility for their use.
 
-With that out of the way, plate files can be downloaded below:
+With that out of the way, plate files can be downloaded below.
+
+### Official Keycult Plate Files
+
+_These plate files are released by Keycult directly_
 
 * [Original No. 1 TKL Plate (2017 Private group buy)](/plate_files/No1TKL-2017-Plate.zip)
 * [No. 1 Rev. 1 TKL Plate](/plate_files/No1Rev1TKL-Plate.zip)
@@ -28,3 +32,10 @@ With that out of the way, plate files can be downloaded below:
 * [No. 2 Plate (Winkeyless)](/plate_files/No2TKL-Plate.zip)
 * [No. 2 Rev. 1 Plate (With and without leaf spring)](/plate_files/No2Rev1TKL-Plate.zip)
 * [No. 2/65 Plates (With and without leaf spring + partial)](/plate_files/No265-Plates.zip)
+
+
+### Community Driven Plate Files
+
+_These plate files were submitted by the community, and are subject to the same terms of use as above. **Please note standard Keycult PCBs do not support ISO layouts. You will need a [Wilba Graphite PCB](https://keycult.com/collections/accessories/products/graphite-pcbs)for ISO support.**_
+
+* [No. 2/65 ISO Plates (With and without leaf spring + partial)](/plate_files/No265-Plates-ISO.zip)
