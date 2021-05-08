@@ -27,12 +27,14 @@ _These plate files are released by Keycult directly_
 * [No. 1 Rev. 1 TKL Plate](/plate_files/No1Rev1TKL-Plate.zip)
 * [No. 1/60 Plate](/plate_files/No160-Plate.zip)
 * [No. 1/60 Rev. 1 Plates (With and without leaf spring + partial)](/plate_files/No160-Rev1-Plates.zip)
-* [No. 1/65 Plate](/plate_files/No165-Plate.zip)
+* [No. 1/65 Plates](/plate_files/No165-Plate.zip)
 * [No. 1/65 Rev. 1 Plates (With and without leaf spring + partial)](/plate_files/No165-Rev1-Plates.zip)
 * [No. 2 Plate (Winkeyless)](/plate_files/No2TKL-Plate.zip)
-* [No. 2 Rev. 1 Plate (With and without leaf spring)](/plate_files/No2Rev1TKL-Plate.zip)
+* [No. 2 Rev. 1 Plates (With and without leaf spring)](/plate_files/No2Rev1TKL-Plate.zip)
+* [No. 2 Rev. 2 Plates (With and without leaf spring)*](/plate_files/No2Rev2-Plates.zip)
 * [No. 2/65 Plates (With and without leaf spring + partial)](/plate_files/No265-Plates.zip)
 
+*_Note: No. 2 Rev. 2 TKL has not been sold yet. These plates are being posted for customers currently commissioning a No. 2 TKL which will be made in-house._
 
 ### Community Driven Plate Files
 
