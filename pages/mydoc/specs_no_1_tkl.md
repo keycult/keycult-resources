@@ -12,7 +12,9 @@ summary: Specifications for the Keycult No. 1 TKL
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/collections/No.1_all_peak_1-1_HR_1088x736.jpg?v=1590176608)
 
 ### Measurements
-- 355mm (L) x 139mm (W) x 22mm (FH) x 40mm (RH)
+
+- Bumpon: 1.75mm
+- 355mm (L) x 139mm (W) x 20.16mm (FH) x 39.5mm (RH)
 
 ### Weights
 - OG - Alu/Alu assembled w/ key caps - 5lbs 10oz / 2.55kg 
