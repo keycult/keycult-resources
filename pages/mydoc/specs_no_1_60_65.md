@@ -13,7 +13,8 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 
 ### Measurements
 
-- 294mm (L) x 111mm (W) x 22mm (FH) x 38mm (RH)
+- Bumpon: 1.75mm
+- 294mm (L) x 111mm (W) x 20.35mm (FH) x 35.8mm (RH)
 
 ### Weights
 
@@ -31,7 +32,8 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 
 ### Measurements
 
-- 294mm (L) x 111mm (W) x 22mm (FH) x 38mm (RH)
+- Bumpon: 1.75mm
+- 313mm (L) x 111mm (W) x 20.35mm (FH) x 35.8mm (RH)
 
 ### Weights
 
