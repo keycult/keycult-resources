@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Common raffle questions">
+<meta name="keywords" content="faqraffle,  faq">
+<title>Raffle FAQ | Keycult Resources</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
+<link rel="stylesheet" href="css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="css/theme-blue.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- Anchor.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="keycult-resources" href="https://github.com/feed.xml">
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Keycult Resources</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="https://keycult.com" target="_blank" rel="noopener">Main Site</a></li>
+                
+                
+                
+                <li><a href="https://github.com/keycult/keycult-resources" target="_blank" rel="noopener">GitHub</a></li>
+                
+                
+                
+                <li><a href="https://keycult.com/discord" target="_blank" rel="noopener">Keycult Discord</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Pages<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2019-release" target="_blank" rel="noopener">No. 1 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/january-2019-release" target="_blank" rel="noopener">No. 1/60 & 1/65</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/december-2019-preorder" target="_blank" rel="noopener">No. 1/60 Rev. 1 & 1/65 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2020-preorder" target="_blank" rel="noopener">No. 1 Rev. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/april-2019-release" target="_blank" rel="noopener">No. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/july-2019-preorder" target="_blank" rel="noopener">No. 2 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/rolling-releases/products/no-2-65" target="_blank" rel="noopener">No. 2/65</a></li>
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Raffle FAQ">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Site Navigation </li>
+  
+  
+  
+      
+  
+  <li>
+      <a title="Overview" href="#">Overview</a>
+      <ul>
+          
+          
+          
+          <li><a title="Introduction" href="index.html">Introduction</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="How to Contribute - Small Changes" href="overview_how_to_contribute_small.html">How to Contribute - Small Changes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="How to Contribute - Full Guide" href="overview_how_to_contribute_full.html">How to Contribute - Full Guide</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Specifications" href="#">Specifications</a>
+      <ul>
+          
+          
+          
+          <li><a title="Keycult No. 1 TKL" href="specs_no_1_tkl.html">Keycult No. 1 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 1/60 & No. 1/65" href="specs_no_1_60_65.html">Keycult No. 1/60 & No. 1/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2 TKL" href="specs_no_2_tkl.html">Keycult No. 2 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2/65" href="specs_no_2_65.html">Keycult No. 2/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Accessories" href="specs_accessories.html">Accessories</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Raffle Info" href="#">Raffle Info</a>
+      <ul>
+          
+          
+          
+          <li><a title="Information and Rules" href="raffle_info_rules.html">Information and Rules</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubleshooting" href="raffle_troubleshooting.html">Troubleshooting</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Downloads" href="#">Downloads</a>
+      <ul>
+          
+          
+          
+          <li><a title="Plate Files" href="downloads_plate_files.html">Plate Files</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="???" href="https://www.keycult.icu/" target="_blank" rel="noopener">???</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="FAQs" href="#">FAQs</a>
+      <ul>
+          
+          
+          
+          <li><a title="Keycult FAQ" href="faq_keycult_faq.html">Keycult FAQ</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="Raffle FAQ" href="faq_raffle_faq.html">Raffle FAQ</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Troubleshooting" href="#">Troubleshooting</a>
+      <ul>
+          
+          
+          
+          <li><a title="PCB Issues" href="troubleshooting_pcb_issues.html">PCB Issues</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Build Issues" href="troubleshooting_build_issues.html">Build Issues</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+      
+      <!-- if you aren't using the accordion, uncomment this block:
+         <p class="external">
+             <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+         </p>
+         -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header">
+   <h1 class="post-title-main">Raffle FAQ</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">Common raffle questions</div>
+   
+
+    
+
+
+    
+
+   <h2 id="pre-raffle">Pre Raffle</h2>
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseOne">General Tips &amp; Troubleshooting</a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <a href="/raffle_troubleshooting.html">Raffle Troubleshooting Page</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseTwo">How do I join the raffle?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                <a href="https://raffle.keycult.com/" target="_blank">https://raffle.keycult.com/</a> - You must have a verified discord account, with a linked phone number, to participate in our raffles. Authentication happens through Discord, so if you are able to successfully chat in the Discord server, you can enter the raffle. Raffle links will be posted in #announcements on Discord with plenty of time in advance.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseThree">How do I verify my phone number with Discord?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                To verify your phone number, you must enable Two-Factor Authentication and then add your phone as an SMS Backup. Learn more here: <a href="https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication" target="_blank"> Discord - Setting up Two Factor Authentication</a>
+                                <br />
+                                <br />
+                                If you're getting an "Invalid Phone Number" error, see here: <a href="https://support.discord.com/hc/en-us/articles/360000961212-Invalid-Phone-Number" target="_blank"> Discord - Invalid Phone Number</a> 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseFour">Can people from the same household enter?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Yes, as long as they actually want one.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseFive">What kind of information do I need to enter?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                All you need is your Discord login information to authenticate with the raffle platform. You also need to know your preferences for the current raffle you want to enter (layout, color, material, extras)
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSix">When I enter a raffle, what email is used?
+</a>
+                            </h4>
+                        </div>
+                        <div id="collapseSix" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                When you login to the raffle page, your email connected to your discord account will be listed. This is the one we will use for invoicing. If this email is incorrect, please update your email address with Discord before entering the raffle. Once you enter the raffle, you email cannot be changed.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSeven">Does Keycult use any of this information for anything else?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseSeven" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                No, Keycult does not use any of the information (like your email address) for anything but notifying you about the current raffle. You will not be subscribed to any mailing list.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseEight">I am unable to authenticate on the raffle website. How can I fix this?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEight" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Here are a few good troubleshooting steps and things to check:
+                                <ul>
+                                  <li>Make sure you are logging into the correct Discord account</li>
+                                  <li>Make sure the Discord account you are logging into has a verified phone number, and has access to post in the Keycult Discord</li>
+                                  <li>Clear your cache/cookies</li>
+                                  <li>Try a different browser</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseNine">Will I need a credit/debit card to enter the raffle?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseNine" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                No. To enter the raffle you do not need your credit or debit card. If you are chosen in a raffle, you will then need your credit/debit card to pay your invoice.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
+
+<h2 id="post-raffle">Post Raffle</h2>
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseTen">How will I know if I won or lost?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTen" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                All communication about if you have won or lost will happen over email. If you won the raffle, you will receive an email congratulating you, and a link to view your Shopify invoice. If you lost, we will send you an email as well to not keep you in the dark.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapseEleven">When will winners be selected? / When will we receive an invoice?
+</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEleven" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Winners will be selected and sent an invoice usually within 24hrs of the raffle closing. Hang out and pay attention to #announcements on Discord.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseTwelve">How long do I have to pay my invoice?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwelve" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                You have 24 hours upon receiving your invoice to pay. If you run into an issue, or cannot pay within 24 hours for whatever reason, please respond to your invoice or email support@keycult.com as soon as you can. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseThirteen">Help! My configuration is wrong!</a>
+                            </h4>
+                        </div>
+                        <div id="collapseThirteen" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Please ensure that your configuration is correct before submitting your raffle entry. Because we have a limited selection of extras, all kits are allocated when we run the raffle. If you need additional add-ons (plates or PCBs), please reply to your invoice email only if you have won the raffle.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="tag_faq.html" class="btn btn-default navbar-btn cursorNorm" role="button">faq</a>
+        
+        
+        
+        <a href="tag_raffle.html" class="btn btn-default navbar-btn cursorNorm" role="button">raffle</a>
+        
+        
+        
+    </div>
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2021 Keycult. All rights reserved. <br />
+ Site last generated: Jun 28, 2021 <br />
+<p><img src="images/company_logo.png" alt="Company logo"/></p>
+                </div>
+            </div>
+</footer>
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+<!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','G-83VB9TSFCS','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-83VB9TSFCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-83VB9TSFCS');
+</script>
+
+
+</html>
