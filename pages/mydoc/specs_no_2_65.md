@@ -9,7 +9,7 @@ summary: Specifications for the Keycult No. 2/65
 
 ## Specifications
 
-![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/No.2-65-6_1440x1440.jpg?v=1607199054)
+![](https://cdn.shopify.com/s/files/1/0015/5084/3975/collections/No._2-65_-6_800x800.jpg?v=1607198696%202.22x)
 
 ### Measurements
 
