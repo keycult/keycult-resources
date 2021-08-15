@@ -13,7 +13,7 @@ summary: Specifications for the Keycult No. 2/65
 
 ### Measurements
 
-- Bumpon: 1.75mm
+- Additional height from bumpon: 1.75mm
 - 315mm (L) x 120mm (W) x 19.8mm (FH) x 36.05mm (RH)
 
 ### Weights
