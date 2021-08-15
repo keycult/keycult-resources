@@ -13,7 +13,7 @@ summary: Specifications for the Keycult No. 1 TKL
 
 ### Measurements
 
-- Bumpon: 1.75mm
+- Additional height from bumpon: 1.75mm: 1.75mm
 - 355mm (L) x 139mm (W) x 20.16mm (FH) x 39.5mm (RH)
 
 ### Weights
