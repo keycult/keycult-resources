@@ -36,8 +36,9 @@ The following are no longer produced
   - Alu/Black
   - Alu/Navy
   - Brass/Black infill 
-  - Brass/White infill (still in production)
+  - Brass/White infill
 - Salvun x Keycult ICU key caps
   - Normal ICU 
   - Splatter (Red, White, Purple, Green)
+- Grovemade x Keycult deskmats
 - No. 2 TKL red aluminum switch plate
