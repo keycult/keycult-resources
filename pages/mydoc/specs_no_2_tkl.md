@@ -22,6 +22,11 @@ summary: Specifications for the Keycult No. 2 TKL
 - Alu/SS assembled w/ keycaps - 7lbs 7oz / 3.84kg
 - Alu/Brass assembled w/ keycaps - 8 lbs 14oz / 4.02kg
 
+### Build Guide
+
+Check out the teardown on Youtube!
+[![](https://i.ytimg.com/vi/kSJLZ5QFRTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=kSJLZ5QFRTg)
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt80-a_solderable_1696x1152.png?v=1590349316)
