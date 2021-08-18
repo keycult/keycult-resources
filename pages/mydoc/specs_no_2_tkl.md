@@ -41,4 +41,5 @@ Unlike the No. 1 Rev. 1, this revision to the No. 2 is very minor, largely to ad
 ### Build Guide
 
 Check out the teardown on Youtube! Just keep in mind this is for the OG No. 2 TKL. See changelog above for differences.
+
 [![](https://i.ytimg.com/vi/kSJLZ5QFRTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=kSJLZ5QFRTg)
