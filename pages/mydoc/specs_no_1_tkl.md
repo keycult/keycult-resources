@@ -20,6 +20,11 @@ summary: Specifications for the Keycult No. 1 TKL
 - OG - Alu/Alu assembled w/ key caps - 5lbs 10oz / 2.55kg 
 - Rev 1 - Alu/Alu assembled w/ key caps 4lbs 10oz / 2.10kg
 
+### Build Guide
+Checkout the teardown on Youtube! Just keep in mind this is for the No. 1 Rev. 1. See changelog below for differences.
+
+[![](https://i.ytimg.com/vi/QVm_2FZpqmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=QVm_2FZpqmE)
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt80-a_solderable_1696x1152.png?v=1590349316)
