@@ -25,7 +25,7 @@ summary: Specifications for the Keycult No. 2/65
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt65a-layout_1440x960.jpg?v=1578518041)
 
-### Build Guide
+## Build Guide
 
 Album of pictures to help you assemble your No. 2/65 can be found below!
 
