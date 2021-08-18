@@ -43,7 +43,7 @@ Revision 1 was a complete, ground-up redesign of the original No. 1. No parts ar
 - Lower height from desk to plate
 - Refined aesthetics (smoother & better-proportioned curves)
 
-### Build Guide
+## Build Guide
 Checkout the teardown on Youtube! Just keep in mind this is for the No. 1 Rev. 1. See changelog above for differences.
 
 [![](https://i.ytimg.com/vi/QVm_2FZpqmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=QVm_2FZpqmE)
