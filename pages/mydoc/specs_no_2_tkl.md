@@ -24,7 +24,7 @@ summary: Specifications for the Keycult No. 2 TKL
 
 ### Build Guide
 
-Check out the teardown on Youtube!
+Check out the teardown on Youtube! Just keep in mind this is for the OG No. 2 TKL. See changelog below for differences.
 [![](https://i.ytimg.com/vi/kSJLZ5QFRTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=kSJLZ5QFRTg)
 
 ### Layout Options
