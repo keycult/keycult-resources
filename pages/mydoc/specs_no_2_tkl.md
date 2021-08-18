@@ -22,11 +22,6 @@ summary: Specifications for the Keycult No. 2 TKL
 - Alu/SS assembled w/ keycaps - 7lbs 7oz / 3.84kg
 - Alu/Brass assembled w/ keycaps - 8 lbs 14oz / 4.02kg
 
-### Build Guide
-
-Check out the teardown on Youtube! Just keep in mind this is for the OG No. 2 TKL. See changelog below for differences.
-[![](https://i.ytimg.com/vi/kSJLZ5QFRTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=kSJLZ5QFRTg)
-
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt80-a_solderable_1696x1152.png?v=1590349316)
@@ -42,3 +37,8 @@ Unlike the No. 1 Rev. 1, this revision to the No. 2 is very minor, largely to ad
 - New plate design for increased flex (compatible with original release, details TBA)
 - Case height increased slightly so that keycaps appear to sit lower in the case (actual height from desk to plate is unchanged)
 - New custom-molded silicone bumpon feet (compatible with original release)
+
+### Build Guide
+
+Check out the teardown on Youtube! Just keep in mind this is for the OG No. 2 TKL. See changelog above for differences.
+[![](https://i.ytimg.com/vi/kSJLZ5QFRTg/maxresdefault.jpg)](https://www.youtube.com/watch?v=kSJLZ5QFRTg)
