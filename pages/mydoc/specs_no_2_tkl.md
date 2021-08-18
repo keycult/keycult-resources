@@ -38,7 +38,7 @@ Unlike the No. 1 Rev. 1, this revision to the No. 2 is very minor, largely to ad
 - Case height increased slightly so that keycaps appear to sit lower in the case (actual height from desk to plate is unchanged)
 - New custom-molded silicone bumpon feet (compatible with original release)
 
-### Build Guide
+## Build Guide
 
 Check out the teardown on Youtube! Just keep in mind this is for the OG No. 2 TKL. See changelog above for differences.
 
