@@ -25,6 +25,7 @@ _These plate files are released by Keycult directly_
 
 * [Original No. 1 TKL Plate (2017 Private group buy)](/plate_files/No1TKL-2017-Plate.zip)
 * [No. 1 Rev. 1 TKL Plate](/plate_files/No1Rev1TKL-Plate.zip)
+* [No. 1 Rev. 2 TKL Plate](/plate_files/No1Rev2TKL-Plate.zip)
 * [No. 1/60 Plate](/plate_files/No160-Plate.zip)
 * [No. 1/60 Rev. 1 Plates (With and without leaf spring + partial)](/plate_files/No160-Rev1-Plates.zip)
 * [No. 1/65 Plates](/plate_files/No165-Plate.zip)
