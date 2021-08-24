@@ -14,7 +14,10 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 ### Measurements
 
 - Additional height from bumpon: 1.75mm
+- Bumpon itself: 8mm in diameter (SJ5302* or SJ5376 can work)
 - 294.3mm (L) x 111mm (W) x 20.35mm (FH) x 35.8mm (RH)
+
+* Not confirmed yet
 
 ### Weights
 
