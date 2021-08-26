@@ -25,7 +25,7 @@ _These plate files are released by Keycult directly_
 
 * [Original No. 1 TKL Plate (2017 Private group buy)](/plate_files/No1TKL-2017-Plate.zip)
 * [No. 1 Rev. 1 TKL Plate](/plate_files/No1Rev1TKL-Plate.zip)
-* [No. 1 Rev. 2 TKL Plate](/plate_files/No1Rev2TKL-Plate.zip)
+* [No. 1 Rev. 2 TKL Plate (With and without leaf spring + partial)](/plate_files/No1Rev2TKL-Plate.zip)
 * [No. 1/60 Plate](/plate_files/No160-Plate.zip)
 * [No. 1/60 Rev. 1 Plates (With and without leaf spring + partial)](/plate_files/No160-Rev1-Plates.zip)
 * [No. 1/65 Plates](/plate_files/No165-Plate.zip)
@@ -41,7 +41,7 @@ _These plate files are released by Keycult directly_
 
 _These plate files were submitted by the community, and are subject to the same terms of use as above. **Please note standard Keycult PCBs do not support ISO layouts. You will need a [Wilba Graphite PCB](https://keycult.com/collections/accessories/products/graphite-pcbs)for ISO support.**_
 
-* [No. 1 Rev. 2 TKL ISO Plates](/plate_files/No1Rev2TKL-Plate_ISO.zip)
+* [No. 1 Rev. 2 TKL ISO Plates (With and without leaf spring + partial)](/plate_files/No1Rev2TKL-Plate_ISO.zip)
 * [No. 2 Rev. 2 ISO Plates (With and without leaf spring)*](/plate_files/No2Rev2-Plates_ISO.zip)
 * [No. 2/65 ISO Plates (With and without leaf spring + partial)](/plate_files/No265-Plates-ISO.zip)
 
