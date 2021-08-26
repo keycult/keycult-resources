@@ -41,4 +41,8 @@ _These plate files are released by Keycult directly_
 
 _These plate files were submitted by the community, and are subject to the same terms of use as above. **Please note standard Keycult PCBs do not support ISO layouts. You will need a [Wilba Graphite PCB](https://keycult.com/collections/accessories/products/graphite-pcbs)for ISO support.**_
 
+* [No. 1 Rev. 2 TKL ISO Plates](/plate_files/No1Rev2TKL-Plate_ISO.zip)
+* [No. 2 Rev. 2 ISO Plates (With and without leaf spring)*](/plate_files/No2Rev2-Plates_ISO.zip)
 * [No. 2/65 ISO Plates (With and without leaf spring + partial)](/plate_files/No265-Plates-ISO.zip)
+
+_Big thankyou to yoniwolf1202 for his contribution of these ISO plate files!_
