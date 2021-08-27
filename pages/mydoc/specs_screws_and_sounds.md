@@ -1,10 +1,10 @@
 ---
 title: "Master Screw List & Sound Demos"
-keywords: screws sounds demo test
+keywords: screws sounds demo test sound size
 tags: [specifications]
 sidebar: mydoc_sidebar
 permalink: specs_screws_and_sounds.html
-summary: Specifications for Screws and Sound Demo Collection
+summary: Specifications for Screw Sizes and Sound Demo Collection
 ---
 
 ## Screw Sizes
