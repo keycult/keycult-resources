@@ -55,6 +55,9 @@ entries:
     - title: Accessories
       url: /specs_accessories.html
       output: web, pdf
+    - title: Screw Lists & Sound tests
+      url: /specs_screws_and_sounds.html
+      output: web, pdf
 
   - title: Raffle Info
     output: web, pdf
