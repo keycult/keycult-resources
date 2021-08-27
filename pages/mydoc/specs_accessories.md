@@ -17,7 +17,7 @@ summary: Specifications for Keycult Accessories
 - TKL - 355mm (L) x 69mm (W) x 11mm (FH) x 20mm (RH)
 
 ### Variants
-- Polycarbonate/Alu (Teal, Silver, Red, Black, 
+- Polycarbonate/Alu (Teal, Silver, Red, Black) 
 - Polycarbonate/Brass (**NOT coated**)
 
 ### Weights

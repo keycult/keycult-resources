@@ -15,20 +15,6 @@ Welcome to the new and improved Keycult resources site! As our brand has grown a
 
 The Idea behind this website is to organize resources and information in a more user friendly way. While this site was created by Keycult and the Keeper/Moderation team, anyone is welcome to contribute through our GitHub. If you find something that is incorrect or out of date, help the person after you by submitting a pull request (or at the very least letting someone know). You can easily let us know about issues with the information by submitted an "Issue" on the GitHub repository.
 
-## Common Items
-
-### Plate Files
-
-[Plate File Download Page](/downloads_plate_files.html)
-
 ### VIA Configurator
 
 All Keycult keyboards sold in 2019 and later come with a PCB that supports VIA Configurator, an in-development desktop application for programming your keymap on the fly. You can download the latest VIA release here: [VIA - Download](https://caniusevia.com)
-
-### Screw Sizes
-
-Master list for all Keycult Keyboard screw sizes can be found on Google Sheets [here](https://docs.google.com/spreadsheets/d/1tgXhPeQ_tqhAteQD2QoLbDey6k4PH0UQvaj127xx6kE/edit#gid=0).
-
-### Sound Tests
-
-A community drive list of Keycult sound tests can be found on Google Sheets [here](https://docs.google.com/spreadsheets/d/1W05Um-6QkimrJnWbXXx35PTlbP9_FNA_c-h_VH71U-c/edit#gid=0).
