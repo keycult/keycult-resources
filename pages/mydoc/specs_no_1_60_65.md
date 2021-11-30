@@ -56,3 +56,6 @@ Much like the TKL release in June, this release is a revision to the original. W
 - PTFE plate-alignment pins
 - Leaf-spring plate for added flex
 - VIA-compatible WT60-A and USB-C daughterboard designed by Wilba
+
+### No 1/65 Rev. 1 Build Guide! (Click the pic)
+[![](https://i.imgur.com/KumXAjE.jpg)](https://imgur.com/a/km5Xeqa)
