@@ -70,8 +70,14 @@ This is meant to be a collection of commonly asked questions and their answers. 
                             <div class="panel-body">
                                 <ul>
                                     <li>No. 1 vs. No. 2 plates are not interchangeable</li>
-                                    <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1 (without alignment pins)</li>
+                                    <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1</li>
+                                        <ul>
+                                            <li>Note: Use without alginment pins</li>
+                                        </ul>
                                     <li>No. 2 Rev. 1 plates will work on original No. 2</li>
+                                        <ul>
+                                            <li>Note: Use without alginment pins</li>
+                                        </ul>
                                 </ul>
                             </div>
                         </div>
@@ -116,6 +122,9 @@ This is meant to be a collection of commonly asked questions and their answers. 
                                     <li>No. 1/60: WT60-G</li>
                                     <li>No. 1/65 or No. 2/65: WT65-G</li>
                                     <li>TKL: WT80-G (Note: This PCB will NOT work on the original No. 1)</li>
+                                        <ul>
+                                            <li>Note: This PCB will NOT work on the original No. 1. Please refer to the spreadsheet <a href="https://docs.google.com/spreadsheets/d/1GpM--fKeDw_tIDZj4m2jmbMavSyXeOu3QHzfTJwz-IM/edit#gid=0" target="_blank">here</a> for other options</li>
+                                        </ul>
                                 </ul>
                             </div>
                         </div>
