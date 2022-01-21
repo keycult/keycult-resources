@@ -106,6 +106,24 @@ This is meant to be a collection of commonly asked questions and their answers. 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseEightteen">Will X PCB fit a Keycult keyboard?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEightteen" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                The recommended supported PCBs are the ones sold on the Keycult store at <a href="https://keycult.com/collections/accessories" target="_blank">here</a>. The following PCBs will also fit as well.
+                                <ul>
+                                    <li>No. 1/60: WT60-G</li>
+                                    <li>No. 1/65 or No. 2/65: WT65-G</li>
+                                    <li>TKL: WT80-G (Note: This PCB will NOT work on the original No. 1)</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseSeven">Are plate files available?</a>
                             </h4>
                         </div>
