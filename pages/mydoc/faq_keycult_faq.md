@@ -68,7 +68,11 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapseFour" class="panel-collapse collapse">
                             <div class="panel-body">
-                                No the plates are not compatible.
+                                <ul>
+                                    <li>No. 1 vs. No. 2 plates are not interchangeable</li>
+                                    <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1 (without alignment pins)</li>
+                                    <li>No. 2 Rev. 1 plates will work on original No. 2</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
