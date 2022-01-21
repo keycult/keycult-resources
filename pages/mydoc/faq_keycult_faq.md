@@ -72,11 +72,11 @@ This is meant to be a collection of commonly asked questions and their answers. 
                                     <li>No. 1 vs. No. 2 plates are not interchangeable</li>
                                     <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1</li>
                                         <ul>
-                                            <li>Note: Use without alginment pins</li>
+                                            <li>Note: Use without alignment pins</li>
                                         </ul>
                                     <li>No. 2 Rev. 1 plates will work on original No. 2</li>
                                         <ul>
-                                            <li>Note: Use without alginment pins</li>
+                                            <li>Note: Use without alignment pins</li>
                                         </ul>
                                 </ul>
                             </div>
