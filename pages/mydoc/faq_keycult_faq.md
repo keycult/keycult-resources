@@ -68,7 +68,17 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapseFour" class="panel-collapse collapse">
                             <div class="panel-body">
-                                No the plates are not compatible.
+                                <ul>
+                                    <li>No. 1 vs. No. 2 plates are not interchangeable</li>
+                                    <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1</li>
+                                        <ul>
+                                            <li>Note: Use without alginment pins</li>
+                                        </ul>
+                                    <li>No. 2 Rev. 1 plates will work on original No. 2</li>
+                                        <ul>
+                                            <li>Note: Use without alginment pins</li>
+                                        </ul>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -95,6 +105,27 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         <div id="collapseSix" class="panel-collapse collapse">
                             <div class="panel-body">
                                 These PCB's are designed to work with Keycult keyboards, and probably will not fit other cases. If buying for another case, make sure it will fit.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapseEightteen">Will X PCB fit a Keycult keyboard?</a>
+                            </h4>
+                        </div>
+                        <div id="collapseEightteen" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                The recommended supported PCBs are the ones sold on the Keycult store at <a href="https://keycult.com/collections/accessories" target="_blank">here</a>. The following PCBs will also fit as well.
+                                <ul>
+                                    <li>No. 1/60: WT60-G</li>
+                                    <li>No. 1/65 or No. 2/65: WT65-G</li>
+                                    <li>TKL: WT80-G (Note: This PCB will NOT work on the original No. 1)</li>
+                                        <ul>
+                                            <li>Note: This PCB will NOT work on the original No. 1. Please refer to the spreadsheet <a href="https://docs.google.com/spreadsheets/d/1GpM--fKeDw_tIDZj4m2jmbMavSyXeOu3QHzfTJwz-IM/edit#gid=0" target="_blank">here</a> for other options</li>
+                                        </ul>
+                                </ul>
                             </div>
                         </div>
                     </div>
