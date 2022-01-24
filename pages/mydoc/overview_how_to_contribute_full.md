@@ -23,13 +23,18 @@ First thing you need to do is install Jekyll on your machine. This can be done b
 
 We are using a specifc open-sourced Jekyll theme for this site. The documentation (and a great example of what can be done on the site) is here: [Theme Documentation](https://idratherbewriting.com/documentation-theme-jekyll/index.html)
 
+## Fork the repository
+You'll want to create a fork of the [Keycult Resources](https://github.com/keycult/keycult-resources) repository before you can make any changes. In the top right of the Github repository, you'll see a button to "Fork". This will create an copy of the Keycult Resources repository in your Github account. More information of Forks can be found here: [Github Forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+
 ## Building the site
 
-Once you have the prerequisites installed, clone the repo to your machine. To build the site, run the following command:
+Once you have the prerequisites installed, clone the newly forked repo to your machine. To build the site, run the following command:
 ```
 bundle exec jekyll serve
 ```
 This will build the site, and run it on localhost at port 4000. Open your web browser and navigate to [localhost:4000](http://localhost:4000/). You can now start making changes to the site. As you make changes to the site and modify files, the site will automatically rebuild. Just refresh your web browser to see the latest changes. 
+
+> *If you are on Windows, you'll need to add ``` gem "tzinfo-data"  ```to the GemFile as the bundler won't be able to detect your timezone. Adding this will give it access and allow you to build the website. Make sure to remove this out of the GemFile before submitting a Pull Request.*
 
 ## Quick Development Guide
 
@@ -50,7 +55,7 @@ To make sure you have the most up to date code
 git pull                            # make sure you have the most up to date code
 ```
 ```
-git checkout -b <branch-name>       # will creat a branch with <branch-name>
+git checkout -b <branch-name>       # will create a branch with <branch-name>
 ```
 Please make sure that your branch matches the above format described in `feature branches`.
 
