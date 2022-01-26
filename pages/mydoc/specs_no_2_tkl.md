@@ -26,8 +26,7 @@ summary: Specifications for the Keycult No. 2 TKL
 
 Limited to sales, commission colors are not listed
 
-- Silver/Stainless
-- Silver/Contemporary Red
+- Silver/Stainless/Contemporary Red
 - Dark Grey/Brass
 
 ### Layout Options
