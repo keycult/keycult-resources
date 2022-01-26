@@ -47,10 +47,21 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 
 Limited to sales, commission colors are not listed
 
-- Light Grey/Dusty Blue
-- Dark Grey/Silver/Brass
-- Black/Silver/Brass/Red/Teal
-- E-White/Brass/Red/Teal/Black
+- Light Grey
+    - Dusty Blue
+- Dark Grey
+    - Silver
+    - Brass
+- Black
+    - Silver
+    - Brass
+    - Red
+    - Teal
+- E-White
+    - Brass
+    - Red
+    - Teal
+    - Black
 
 Black/black vickrey editions were shelved.
 
