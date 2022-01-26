@@ -25,9 +25,13 @@ summary: Specifications for the Keycult No. 2/65
 
 Limited to sales, commission colors are not listed
 
-Rolling Releases
-- Black/Brass/Red UF (unfinished)/Purple UF/Black UF *vickrey
-- Navy Gray/Silver (Yet to be released)
+- Black
+    - Brass
+    - Red unfinished
+    - Purple unfinished
+    - Black unfinished *vickrey
+- Navy Gray
+    - Silver (Yet to be released)
 
 ### Layout Options
 
