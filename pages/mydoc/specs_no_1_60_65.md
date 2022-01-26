@@ -24,6 +24,30 @@ summary: Specifications for the Keycult No. 1/60 and the Keycult No. 1/65
 - Alu/Alu assembled w/ key caps - 2lbs 12 oz / 1.25kg
 - Alu/Brass - Unbuilt - 4lbs 5oz / 1.96kg
 
+### Variations
+
+Limited to sales, commission colors are not listed
+
+- Light Grey
+    - Dusty Blue
+- Dark Grey
+    - Brass
+- Black
+    - Dusty Blue
+    - Silver
+    - Brass
+    - Red
+    - Teal
+- E-White
+    - Brass
+    - Red
+    - Teal
+    - Black
+
+Black/black vickrey editions were shelved.
+
+There were also some OG B stock 1/60/65s offered in cerakote. Their colorways are unique to each serialized board and can be found [here](https://keycult.com/blogs/typings/remaining-no-1-60-no-1-65-kits-available-wednesday-april-3-6pm-edt).
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt60a-layout_1696x1152.jpg?v=1608164604)

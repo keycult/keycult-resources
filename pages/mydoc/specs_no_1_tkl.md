@@ -29,19 +29,19 @@ Limited to sales, commission colors are not listed
 
 - Black
     - Gold
-    - Stainless (polished|sandblasted)
-    - Brass (polished|sandblasted)
+    - Stainless polished/sandblasted
+    - Brass polished/sandblasted
 - Dark Navy
     - Silver
 - Silver
-    - Stainless (polished|sandblasted)
-    - Brass (polished|sandblasted)
+    - Stainless polished/sandblasted
+    - Brass polished/sandblasted
 - Burgandy
-    - Stainless (polished|sandblasted)
-    - Brass (polished|sandblasted)
+    - Stainless polished/sandblasted
+    - Brass polished/sandblasted
 - Navy
-    - Stainless (polished|sandblasted)
-    - Brass (polished|sandblasted)
+    - Stainless polished/sandblasted
+    - Brass polished/sandblasted
 
 OG colorways are a bit harder to track since buyers got to choose color combos.
 TypeMachina No. 1s never had an official sale but some are in circulation.
