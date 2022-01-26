@@ -22,6 +22,19 @@ summary: Specifications for the Keycult No. 2 TKL
 - Alu/SS assembled w/ keycaps - 7lbs 7oz / 3.84kg
 - Alu/Brass assembled w/ keycaps - 8 lbs 14oz / 4.02kg
 
+### Variations
+
+Limited to sales, commission colors are not listed
+
+- Silver
+    - Stainless
+    - Contemporary Red
+- Dark Grey
+    - Brass
+
+There are some OG No. 2 TKLs out there that had a small private run by EVE. They have unique colorways.
+You can always ping us in Discord if you are curious if it is official or not.
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt80-a_solderable_1696x1152.png?v=1590349316)

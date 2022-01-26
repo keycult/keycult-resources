@@ -23,6 +23,29 @@ summary: Specifications for the Keycult No. 1 TKL
 - OG - Alu/Alu assembled w/ key caps - 5lbs 10oz / 2.55kg 
 - Rev 1 - Alu/Alu assembled w/ key caps 4lbs 10oz / 2.10kg
 
+### Variations
+
+Limited to sales, commission colors are not listed
+
+- Black
+    - Gold
+    - Stainless (polished|sandblasted)
+    - Brass (polished|sandblasted)
+- Dark Navy
+    - Silver
+- Silver
+    - Stainless (polished|sandblasted)
+    - Brass (polished|sandblasted)
+- Burgandy
+    - Stainless (polished|sandblasted)
+    - Brass (polished|sandblasted)
+- Navy
+    - Stainless (polished|sandblasted)
+    - Brass (polished|sandblasted)
+
+OG colorways are a bit harder to track since buyers got to choose color combos.
+TypeMachina No. 1s never had an official sale but some are in circulation.
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt80-a_solderable_1696x1152.png?v=1590349316)

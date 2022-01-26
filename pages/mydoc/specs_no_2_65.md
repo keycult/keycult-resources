@@ -21,6 +21,18 @@ summary: Specifications for the Keycult No. 2/65
 - Alu/Alu assembled w/ keycaps - 3lbs 11oz / 1.67kg
 - Alu/Brass assembled w/ keycaps - 5lbs 11oz / 2.58kg
 
+### Variations
+
+Limited to sales, commission colors are not listed
+
+- Black
+    - Brass
+    - Red unfinished
+    - Purple unfinished
+    - Black unfinished *vickrey
+- Navy Gray
+    - Silver (Yet to be released)
+
 ### Layout Options
 
 ![](https://cdn.shopify.com/s/files/1/0015/5084/3975/products/wt65a-layout_1440x960.jpg?v=1578518041)

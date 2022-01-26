@@ -276,5 +276,18 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                     </div>
                     <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse19">How do we identify an authentic Keycult?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse19" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Depending on the revision and form factor, each board will have different ways to identify authenticity. The most clear cut way to get an authentic Keycult is through purchasing through Keycult. If you are ever unsure if a Keycult is real or not, please feel free to reach out to our Discord and ask. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
