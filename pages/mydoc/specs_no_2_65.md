@@ -23,6 +23,8 @@ summary: Specifications for the Keycult No. 2/65
 
 ### Variations
 
+Limited to sales, commission colors are not listed
+
 Rolling Releases
 - Black/Brass
 - Black/Red unfinished
