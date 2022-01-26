@@ -43,6 +43,8 @@ Limited to sales, commission colors are not listed
     - Stainless (polished|sandblasted)
     - Brass (polished|sandblasted)
 
+OG colorways are a bit harder to track since buyers got to choose color combos.
+TypeMachina No. 1s never had an official sale but some are in circulation.
 
 ### Layout Options
 
