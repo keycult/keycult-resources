@@ -26,6 +26,8 @@ Example top bids
 
 Your bid represents the maximum amount you are willing to pay, but the actual sale price is determined by the other participants. In the example above, even though #1 bid $950, they only paid $650. This is the market price: the price at which there are enough buyers willing to pay for the item.
 
+The auction will be silent, so no bids will be visible during or after the auction. Each participant is allowed only 1 bid. So make sure to bid only the maximum you are willing and can pay. You will be met with repercussions if you are not able to pay.
+
 A Vickrey Auction will not happen often. Usually, Vickrey auctions are run for very limited special editions that are at the discretion of Keycult. 
 
 
