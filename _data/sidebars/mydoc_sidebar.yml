@@ -70,6 +70,14 @@ entries:
       url: /raffle_troubleshooting.html
       output: web, pdf
 
+  - title: Vickrey Info
+    output: web, pdf
+
+    folderitems:
+    - title: Information and Rules
+      url: /vickrey_info_rules.html
+      output: web, pdf
+    
   - title: Downloads
     output: web, pdf
 

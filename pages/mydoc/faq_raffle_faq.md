@@ -82,8 +82,7 @@ summary: Common raffle questions
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse6">When I enter a raffle, what email is used?
-</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse6">When I enter a raffle, what email is used?</a>
                             </h4>
                         </div>
                         <div id="collapse6" class="panel-collapse collapse">
