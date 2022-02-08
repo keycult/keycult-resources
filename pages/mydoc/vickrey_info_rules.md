@@ -28,23 +28,40 @@ Your bid represents the maximum amount you are willing to pay, but the actual sa
 
 The auction will be silent, so no bids will be visible during or after the auction. Each participant is allowed only 1 bid. So make sure to bid only the maximum you are willing and can pay. You will be met with repercussions if you are not able to pay.
 
+After the auction period is complete, there will be at least a day to process results and send out invoices.
+
 A Vickrey Auction will not happen often. Usually, Vickrey auctions are run for very limited special editions that are at the discretion of Keycult. 
 
 
-## Why are Vickrey Auctions run?
+## General Vickery Rules
 
-Demand for our boards is currently much higher than our supply. While we are increasing the number of kits available during our raffles, we do not anticipate keeping up with demand in the near future. This leads to an aftermarket where kits sell for dramatically more than what we charge. Contrary to what some may think, we do not have any ill-will towards people who resell Keycult kits for profit. But if we could capture some of that profit, it would bring us closer to becoming a sustainable, long-term business.
+These rules apply to all vickreys conducted by Keycult. Failure to abide by them may get you disqualified, banned, or blacklisted from future raffles and releases.
 
-To that end, we think a Vickrey auction will have a couple of key benefits:
-
- - Those willing to spend significantly more for a kit will be able to purchase one through the auction instead of through the aftermarket, benefiting Keycult financially.
-
- - The auction takes top spenders out of the market, making it less attractive for people to enter the main sale with the intent to resell their kit for profit. This should improve chances for those who would actually build and use their kit.
-
+ - You have 10 hours to enter on auction day (10am to 8pm EDT) and cannot change your bid after you submit! Please be sure of your submission and take your time.
+ - You may not bid on behalf of someone else or agree ahead of time to sell your slot to someone else if you win.
+ - If you win, you will receive an invoice through our Shopify storefront and will have 24 hours to complete payment. **We do not accept PayPal.**
 
 ## FAQ
 
 <div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapse0"></a>
+                            </h4>
+                        </div>
+                        <div id="collapse0" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                            Demand for our boards is currently much higher than our supply. While we are increasing the number of kits available during our raffles, we do not anticipate keeping up with demand in the near future. This leads to an aftermarket where kits sell for dramatically more than what we charge. Contrary to what some may think, we do not have any ill-will towards people who resell Keycult kits for profit. But if we could capture some of that profit, it would bring us closer to becoming a sustainable, long-term business.
+                            To that end, we think a Vickrey auction will have a couple of key benefits:
+                            <ul>
+                                <li>Those willing to spend significantly more for a kit will be able to purchase one through the auction instead of through the aftermarket, benefiting Keycult financially.</li>
+                                <li>The auction takes top spenders out of the market, making it less attractive for people to enter the main sale with the intent to resell their kit for profit. This should improve chances for those who would actually build and use their kit.</li>
+                            </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
