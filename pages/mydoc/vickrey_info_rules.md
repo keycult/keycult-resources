@@ -7,13 +7,13 @@ permalink: vickrey_info_rules.html
 summary: Explanation of the Keycult Vickrey system and the rules about entering Vickrey Auctions 
 ---
 
-## Vickrey Aunction Information
+## Vickrey Auction Information
 You can find a detailed explaination about the Vickrey format and FAQs on the main website here: <a href="https://keycult.com/blogs/typings/the-vickrey-auction-and-why-were-using-it">Vickrey Auction Information</a>.
 
 
 ## General Vickery Rules
 
-These rules apply to all vickreys conducted by Keycult. Failure to abide by them may get you disqualified, banned, or blacklisted from future vickreys, raffles and/or other releases.
+These rules apply to all vickrey auctions conducted by Keycult. Failure to abide by them may get you disqualified, banned, or blacklisted from future vickreys, raffles and/or other releases.
 
  - You have 10 hours to enter on auction day (10am to 8pm EDT) and cannot change your bid after you submit! Please be sure of your submission and take your time.
  - You are only allowed to bid once. Multiple bids are not allowed nor will help you.
