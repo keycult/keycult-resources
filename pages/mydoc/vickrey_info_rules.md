@@ -1,5 +1,5 @@
 ---
-title: "Raffle Information and Rules"
+title: "Vickrey Information and Rules"
 keywords: vickrey
 tags: [vickrey]
 sidebar: mydoc_sidebar
