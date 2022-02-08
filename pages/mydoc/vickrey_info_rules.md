@@ -16,9 +16,10 @@ You can find a detailed explaination about the Vickrey format and FAQs on the ma
 These rules apply to all vickrey auctions conducted by Keycult. Failure to abide by them may get you disqualified, banned, or blacklisted from future vickreys, raffles and/or other releases.
 
  - You have 10 hours to enter on auction day (10am to 8pm EDT) and cannot change your bid after you submit! Please be sure of your submission and take your time.
- - You are only allowed to bid once. Multiple bids are not allowed nor will help you.
+ - You are only allowed to bid once. Multiple bids in any form will result in a immediate **disqualification** from the current and/or future sales.
  - You may not bid on behalf of someone else or agree ahead of time to sell your slot to someone else if you win.
  - If you win, you will receive an invoice through our Shopify storefront and will have 24 hours to complete payment. **We do not accept PayPal.**
+    - Failure to pay will result in a **ban** from all future Keycult sales, including but not limited to the following: raffles, auctions, etc. 
 
 ## Information we collect and how we use it
 
