@@ -31,7 +31,7 @@ Limited to sales, commission colors are not listed
     - Purple unfinished
     - Black unfinished *vickrey
 - Navy Gray
-    - Silver (Yet to be released)
+    - Silver
 
 ### Layout Options
 
