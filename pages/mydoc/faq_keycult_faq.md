@@ -245,7 +245,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse16" class="panel-collapse collapse">
                             <div class="panel-body">
-                                We try to maintain a steady inventory of PCBs and plates available for our boards. If a PCB or plate is out of stock now, it'll be restocked in the near future.
+                                We usually try to maintain a steady inventory of PCBs and plates available for our boards. Because of the chip shortage, we are no longer able to provide extra PCBs for the time being. You can always check out our friend https://salvun.com/ who carries graphite PCBs that are compatible with Keycult boards. 
                             </div>
                         </div>
                     </div>
