@@ -31,6 +31,8 @@ Limited to sales, commission colors are not listed
     - Contemporary Red
 - Dark Grey
     - Brass
+- Matte Black
+    - Blue Waves
 
 There are some OG No. 2 TKLs out there that had a small private run by EVE. They have unique colorways.
 You can always ping us in Discord if you are curious if it is official or not.
@@ -50,6 +52,10 @@ Unlike the No. 1 Rev. 1, this revision to the No. 2 is very minor, largely to ad
 - New plate design for increased flex (compatible with original release, details TBA)
 - Case height increased slightly so that keycaps appear to sit lower in the case (actual height from desk to plate is unchanged)
 - New custom-molded silicone bumpon feet (compatible with original release)
+
+### No. 2 Rev. 2
+
+The No. 2 Rev. 2 is the first batch of No. 2's manufactured in Raleigh, NC. The revision features small internal changes to help with manufacturing, the aesthetics of the keyboard are the same.
 
 ## Build Guide
 
