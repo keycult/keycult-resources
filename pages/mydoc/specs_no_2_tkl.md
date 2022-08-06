@@ -29,10 +29,13 @@ Limited to sales, commission colors are not listed
 - Silver
     - Stainless
     - Contemporary Red
+    - Blue Waves
 - Dark Grey
     - Brass
 - Matte Black
     - Blue Waves
+- Blue Hammertone (Powdercoat)
+    - Satin
 
 There are some OG No. 2 TKLs out there that had a small private run by EVE. They have unique colorways.
 You can always ping us in Discord if you are curious if it is official or not.
@@ -55,7 +58,10 @@ Unlike the No. 1 Rev. 1, this revision to the No. 2 is very minor, largely to ad
 
 ### No. 2 Rev. 2
 
-The No. 2 Rev. 2 is the first batch of No. 2's manufactured in Raleigh, NC. The revision features small internal changes to help with manufacturing, the aesthetics of the keyboard are the same.
+The No. 2 Rev. 2 is the first batch of No. 2's manufactured in Raleigh, NC. No. 2 Rev. 2 parts are not compatible with previous revisions.
+
+- Small internal changes to help with manufacturing, the aesthetics of the keyboard are the same
+- PTFE alignment pins
 
 ## Build Guide
 
