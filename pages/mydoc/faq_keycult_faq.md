@@ -284,7 +284,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse19" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Depending on the revision and form factor, each board will have different ways to identify authenticity. The most clear cut way to get an authentic Keycult is through purchasing through Keycult. If you are ever unsure if a Keycult is real or not, please feel free to reach out to our Discord and ask. 
+                                The most clear cut way is to purchase from Keycult directly. We understand there still might be some concerns with aftermarket purchases, so it would be best to ask about provenance IE order confirmation email, auth card, etc. If you are ever unsure if a Keycult is real or not, please feel free to DM our Discord moderators or Keepers.
                             </div>
                         </div>
                     </div>
