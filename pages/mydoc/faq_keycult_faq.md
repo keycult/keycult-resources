@@ -297,7 +297,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse20" class="panel-collapse collapse">
                             <div class="panel-body">
-                                For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. 
+                                For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. If you don't use the pins, then no problem. 
                             </div>
                         </div>
                     </div>
