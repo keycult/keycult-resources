@@ -289,5 +289,18 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                     </div>
                     <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse20">Are Keycult plates backwards compatible?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse20" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. If you don't use the pins, then no problem. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->

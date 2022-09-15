@@ -35,8 +35,6 @@ _These plate files are released by Keycult directly_
 * [No. 2 Rev. 2 Plates (With and without leaf spring)*](/plate_files/No2Rev2-Plates.zip)
 * [No. 2/65 Plates (With and without leaf spring + partial)](/plate_files/No265-Plates.zip)
 
-*_Note: No. 2 Rev. 2 TKL has not been sold yet. These plates are being posted for customers currently commissioning a No. 2 TKL which will be made in-house._
-
 ### Community Driven Plate Files
 
 _These plate files were submitted by the community, and are subject to the same terms of use as above. **Please note standard Keycult PCBs do not support ISO layouts. You will need a [Wilba Graphite PCB](https://keycult.com/collections/accessories/products/graphite-pcbs)for ISO support.**_
