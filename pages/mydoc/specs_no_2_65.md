@@ -32,6 +32,10 @@ Limited to sales, commission colors are not listed
     - Black unfinished *vickrey
 - Navy Gray
     - Silver
+- White (Powdercoat)
+    - Unfinished Silver
+- Matte Blue
+    - Unfinished Silver
 
 ### Layout Options
 
