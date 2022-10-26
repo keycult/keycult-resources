@@ -8,6 +8,9 @@ toc: false
 summary: Common raffle questions 
 ---
 
+# As of Oct 2022, we have moved to a new raffle system. Please checkout our discord's #drawings-faq in the meantime and we'll update this page soon enough.
+Thank you!
+
 ## Pre Raffle 
 
 <div class="panel-group" id="accordion">
