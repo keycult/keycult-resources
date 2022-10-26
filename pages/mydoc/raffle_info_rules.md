@@ -6,6 +6,8 @@ sidebar: mydoc_sidebar
 permalink: raffle_info_rules.html
 summary: Explanation of the Keycult raffle system and the rules about entering raffles 
 ---
+# As of Oct 2022, we have moved to a new raffle system. Please checkout our discord's #drawings-faq in the meantime and we'll update this page soon enough.
+Thank you!
 
 ## Keycult Raffle Info, Tips & Troubleshooting 
 Starting in August 2020, Keycult is using a new raffle system integrated with our Discord chat server. Important links:
