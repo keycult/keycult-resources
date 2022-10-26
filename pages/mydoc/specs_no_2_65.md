@@ -36,6 +36,8 @@ Limited to sales, commission colors are not listed
     - Unfinished Silver
 - Matte Blue
     - Unfinished Silver
+- Grey (Powdercoat)
+    - Red (Powdercoat)
 
 ### Layout Options
 
