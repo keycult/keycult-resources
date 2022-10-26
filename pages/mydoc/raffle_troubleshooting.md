@@ -6,6 +6,8 @@ sidebar: mydoc_sidebar
 permalink: raffle_troubleshooting.html
 summary: Common Keycult raffle troubleshooting steps
 ---
+# As of Oct 2022, we have moved to a new raffle system. Please checkout our discord's #drawings-faq in the meantime and we'll update this page soon enough.
+Thank you!
 
 ## Issues authenticating on raffle.keycult.com
 
