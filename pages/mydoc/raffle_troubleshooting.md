@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 permalink: drawing_troubleshooting.html
 summary: Common Keycult drawing troubleshooting steps
 ---
-## Confirming access to raffles
+## Confirming access to drawings
 
 There are a couple ways to check:
 
