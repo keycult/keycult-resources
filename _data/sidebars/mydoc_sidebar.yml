@@ -59,15 +59,15 @@ entries:
       url: /specs_screws_and_sounds.html
       output: web, pdf
 
-  - title: Raffle Info
+  - title: Drawing Info
     output: web, pdf
 
     folderitems:
     - title: Information and Rules
-      url: /raffle_info_rules.html
+      url: /drawing_info_rules.html
       output: web, pdf
     - title: Troubleshooting
-      url: /raffle_troubleshooting.html
+      url: /drawing_troubleshooting.html
       output: web, pdf
 
   - title: Vickrey Info
@@ -96,8 +96,8 @@ entries:
     - title: Keycult FAQ
       url: /faq_keycult_faq.html
       output: web, pdf
-    - title: Raffle FAQ
-      url: /faq_raffle_faq.html
+    - title: Drawing FAQ
+      url: /faq_drawing_faq.html
       output: web, pdf
 
   - title: Troubleshooting
