@@ -4,7 +4,7 @@ keywords: drawing
 tags: [drawing]
 sidebar: mydoc_sidebar
 permalink: drawing_info_rules.html
-summary: Explanation of the Keycult drawing system and the rules about entering raffles 
+summary: Explanation of the Keycult drawing system and the rules about entering drawings 
 ---
 
 Starting in October 2022, we moved from raffles to drawings. Important links:
