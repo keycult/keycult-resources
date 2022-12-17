@@ -40,6 +40,8 @@ Limited to sales, commission colors are not listed
     - Red (Powdercoat)
 - Black (Powdercoat)
     - Blue (Powdercoat)
+- White (Powdercoat)
+    - Black (Powdercoat)
 
 
 ### Layout Options
