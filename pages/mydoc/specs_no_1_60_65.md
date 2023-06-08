@@ -81,10 +81,15 @@ Limited to sales, commission colors are not listed
     - Brass
     - Red
     - Teal
+    - Gold
 - E-White
     - Brass
     - Red
     - Teal
+    - Black
+- Rose Gold
+    - Charcoal
+- Green
     - Black
 
 Black/black vickrey editions were shelved.
