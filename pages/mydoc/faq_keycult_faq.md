@@ -227,12 +227,12 @@ This is meant to be a collection of commonly asked questions and their answers. 
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse15">What is your live update stream schedule?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse15">Where can we find updates on keyboard releases/preorders?</a>
                             </h4>
                         </div>
                         <div id="collapse15" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Unless otherwise mentioned, all live updates will take place on every other Thursday at 4pm Eastern time. Feel free to join us at <a href="https://twitch.tv/keycult" target="_blank">https://twitch.tv/keycult</a> for our other streams as well.
+                                Since our live streams have stopped for the time being, we will be sending email updates accordingly to customers.
                             </div>
                         </div>
                     </div>
@@ -298,6 +298,19 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         <div id="collapse20" class="panel-collapse collapse">
                             <div class="panel-body">
                                 For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. If you don't use the pins, then no problem. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse21">Are Keycult parts interchangable between revisions?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse21" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Plates are interchangable between revisions but tolerances and dimensions are usually tweaked slightly between revisions. We can't promise they will fit together nicely. If you are trying to use a part from the same revision it should fit.  
                             </div>
                         </div>
                     </div>
