@@ -31,17 +31,17 @@ Limited to sales, commission colors are not listed
     - Purple unfinished
     - Black unfinished *vickrey
 - Navy Gray
-    - Silver
+    - [Silver](https://imgur.com/a/G2eizhz)
 - White (Powdercoat)
-    - Unfinished Silver
-    - Black (Powdercoat)
+    - [Unfinished Silver](https://imgur.com/a/8ytJAfe)
+    - [Black (Powdercoat)](https://imgur.com/a/UqXnU1x)
     - Black waves
 - Matte Blue
     - Unfinished Silver
 - Grey (Powdercoat)
-    - Red (Powdercoat)
+    - [Red (Powdercoat)](https://imgur.com/a/rKiUg3p)
 - Black (Powdercoat)
-    - Blue (Powdercoat)
+    - [Blue (Powdercoat)](https://imgur.com/a/vGtDJB0)
 
 ### Layout Options
 
