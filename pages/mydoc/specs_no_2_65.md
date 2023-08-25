@@ -35,8 +35,8 @@ Limited to sales, commission colors are not listed
 - White (Powdercoat)
     - [Unfinished Silver](https://imgur.com/a/8ytJAfe)
     - [Black (Powdercoat)](https://imgur.com/a/UqXnU1x)
-    - Black waves (Anodized)
-    - Gray waves (Powdercoat)
+    - [Black waves (Anodized)](https://imgur.com/a/76lQmfm)
+    - [Gray waves (Powdercoat)](https://imgur.com/a/eOmUac1)
 - Matte Blue
     - Unfinished Silver
 - Grey (Powdercoat)
