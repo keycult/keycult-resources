@@ -26,8 +26,8 @@ summary: Specifications for the Keycult No. 2/65
 Limited to sales, commission colors are not listed
 
 - Black
-    - Brass
-    - Red unfinished
+    - [Brass](https://imgur.com/a/4cduak9)
+    - [Red unfinished](https://imgur.com/a/7tYBs6p)
     - Purple unfinished
     - Black unfinished *vickrey
 - Navy Gray
@@ -38,7 +38,7 @@ Limited to sales, commission colors are not listed
     - [Black waves (Anodized)](https://imgur.com/a/76lQmfm)
     - [Gray waves (Powdercoat)](https://imgur.com/a/eOmUac1)
 - Matte Blue
-    - Unfinished Silver
+    - [Unfinished Silver](https://imgur.com/a/jsTAHNb)
 - Grey (Powdercoat)
     - [Red (Powdercoat)](https://imgur.com/a/rKiUg3p)
 - Black (Powdercoat)
