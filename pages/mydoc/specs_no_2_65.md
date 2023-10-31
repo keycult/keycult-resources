@@ -28,8 +28,8 @@ Limited to sales, commission colors are not listed
 - Black
     - [Brass](https://imgur.com/a/4cduak9)
     - [Red unfinished](https://imgur.com/a/7tYBs6p)
-    - Purple unfinished
-    - Black unfinished *vickrey
+    - [Purple unfinished](https://imgur.com/a/70bJNjJ)
+    - [Black unfinished *vickrey](https://imgur.com/a/cMJYfJC)
 - Navy Gray
     - [Silver](https://imgur.com/a/G2eizhz)
 - White (Powdercoat)
