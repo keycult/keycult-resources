@@ -30,6 +30,7 @@ Limited to sales, commission colors are not listed
     - [Red unfinished](https://imgur.com/a/7tYBs6p)
     - [Purple unfinished](https://imgur.com/a/70bJNjJ)
     - [Black unfinished *vickrey](https://imgur.com/a/cMJYfJC)
+    - Silver unfinished
 - Navy Gray
     - [Silver](https://imgur.com/a/G2eizhz)
 - White (Powdercoat)
@@ -43,6 +44,8 @@ Limited to sales, commission colors are not listed
     - [Red (Powdercoat)](https://imgur.com/a/rKiUg3p)
 - Black (Powdercoat)
     - [Blue (Powdercoat)](https://imgur.com/a/vGtDJB0)
+- Silver Hammered
+    - Black (Powdercoat)
 
 ### Layout Options
 
