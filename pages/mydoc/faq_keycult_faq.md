@@ -191,7 +191,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse12" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                We’ve written about this here: <a href="https://keycult.com/pages/how-to-buy" target="_blank">Keycult - How To Buy</a>
+                                We’ve written about this here: <a href="https://keycult.com/a/tools/drawings" target="_blank">Keycult - Drawings</a>
                             </div>
                         </div>
                     </div>
@@ -204,7 +204,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse13" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                We recommend you checkout <a href="https://keycult.com/discord" target="_blank">our Discord server</a> for the most up to date information. We have a release schedule posted there in #release-schedule. There is also a schedule on our website, but that sometimes falls out of date. You can view that here: <a href="https://keycult.com/schedule" target="_blank">Keycult - Schedule</a>
+                                We recommend you checkout <a href="https://keycult.com/discord" target="_blank">our Discord server</a> for the most up to date information. We post updates and new release information in #updates-and-releases.
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse15" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Since our live streams have stopped for the time being, we will be sending email updates accordingly to customers.
+                                Check out our discord server. #updates-and-releases will have the most up to date information. :)
                             </div>
                         </div>
                     </div>
@@ -245,7 +245,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse16" class="panel-collapse collapse">
                             <div class="panel-body">
-                                We usually try to maintain a steady inventory of PCBs and plates available for our boards. Because of the chip shortage, we are no longer able to provide extra PCBs for the time being. You can always check out our friend https://salvun.com/ who carries graphite PCBs that are compatible with Keycult boards. 
+                                We recommend you cut your own plates. We've provided plate files here as well for you to use! Because of the chip shortage, we are no longer able to provide extra PCBs for the time being. You can always check out our friend https://salvun.com/ who carries graphite PCBs that are compatible with Keycult boards. 
                             </div>
                         </div>
                     </div>
