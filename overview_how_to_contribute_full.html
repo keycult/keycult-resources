@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="This page will explain how to get the Jekyll enviornment setup on your local machine, so you can test changes like creating new pages, changing navigation, etc.">
+<meta name="keywords" content="getting_started,  contribution guide">
+<title>How to Contribute - Full Guide | Keycult Resources</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
+<link rel="stylesheet" href="css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="css/theme-blue.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- Anchor.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="keycult-resources" href="https://github.com/feed.xml">
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Keycult Resources</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="https://keycult.com" target="_blank" rel="noopener">Main Site</a></li>
+                
+                
+                
+                <li><a href="https://github.com/keycult/keycult-resources" target="_blank" rel="noopener">GitHub</a></li>
+                
+                
+                
+                <li><a href="https://keycult.com/discord" target="_blank" rel="noopener">Keycult Discord</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Pages<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2019-release" target="_blank" rel="noopener">No. 1 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/january-2019-release" target="_blank" rel="noopener">No. 1/60 & 1/65</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/december-2019-preorder" target="_blank" rel="noopener">No. 1/60 Rev. 1 & 1/65 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2020-preorder" target="_blank" rel="noopener">No. 1 Rev. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/april-2019-release" target="_blank" rel="noopener">No. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/july-2019-preorder" target="_blank" rel="noopener">No. 2 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/rolling-releases/products/no-2-65" target="_blank" rel="noopener">No. 2/65</a></li>
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="How to Contribute - Full Guide">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Site Navigation </li>
+  
+  
+  
+      
+  
+  <li>
+      <a title="Overview" href="#">Overview</a>
+      <ul>
+          
+          
+          
+          <li><a title="Introduction" href="index.html">Introduction</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="How to Contribute - Small Changes" href="overview_how_to_contribute_small.html">How to Contribute - Small Changes</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="How to Contribute - Full Guide" href="overview_how_to_contribute_full.html">How to Contribute - Full Guide</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Specifications" href="#">Specifications</a>
+      <ul>
+          
+          
+          
+          <li><a title="Keycult No. 1 TKL" href="specs_no_1_tkl.html">Keycult No. 1 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 1/60 & No. 1/65" href="specs_no_1_60_65.html">Keycult No. 1/60 & No. 1/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2 TKL" href="specs_no_2_tkl.html">Keycult No. 2 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2/65" href="specs_no_2_65.html">Keycult No. 2/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Accessories" href="specs_accessories.html">Accessories</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Screw Sizes & Sound Tests" href="specs_screws_and_sounds.html">Screw Sizes & Sound Tests</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Drawing Info" href="#">Drawing Info</a>
+      <ul>
+          
+          
+          
+          <li><a title="Information and Rules" href="drawing_info_rules.html">Information and Rules</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubleshooting" href="drawing_troubleshooting.html">Troubleshooting</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Vickrey Info" href="#">Vickrey Info</a>
+      <ul>
+          
+          
+          
+          <li><a title="Information and Rules" href="vickrey_info_rules.html">Information and Rules</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Downloads" href="#">Downloads</a>
+      <ul>
+          
+          
+          
+          <li><a title="Plate Files" href="downloads_plate_files.html">Plate Files</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="???" href="https://www.keycult.icu/" target="_blank" rel="noopener">???</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="FAQs" href="#">FAQs</a>
+      <ul>
+          
+          
+          
+          <li><a title="Keycult FAQ" href="faq_keycult_faq.html">Keycult FAQ</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Drawing FAQ" href="faq_drawing_faq.html">Drawing FAQ</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Troubleshooting" href="#">Troubleshooting</a>
+      <ul>
+          
+          
+          
+          <li><a title="PCB Issues" href="troubleshooting_pcb_issues.html">PCB Issues</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Build Issues" href="troubleshooting_build_issues.html">Build Issues</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+      
+      <!-- if you aren't using the accordion, uncomment this block:
+         <p class="external">
+             <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+         </p>
+         -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header">
+   <h1 class="post-title-main">How to Contribute - Full Guide</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">This page will explain how to get the Jekyll enviornment setup on your local machine, so you can test changes like creating new pages, changing navigation, etc.</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+  
+});
+</script>
+
+<div id="toc"></div>
+
+    
+
+
+    
+
+   <div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> This is the full on guide to contributing large changes to the site. If you only want to make small changes, please see <a href="/overview_how_to_contribute_small.html">How to Contribute - Small</a></div>
+
+<p>This website is created using a simple static website framework called <a href="https://jekyllrb.com/">Jekyll</a>. If you want to develop locally and iterate quickly, it is recommended that you install Jekyll locally on your machine, so that you can test large changes locally before submiting to the repository. This guide will walk you through easily getting your enviornment setup and how to make changes.</p>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>First off, to contribute to the site, you must have a GitHub account. If you dont have one, head over to <a href="https://github.com">GitHub</a> and create an account. The link to our repository is in the navigation bar at the top. All of our pages are written in Markdown, an easy-to-use markup language. If you are new to Markdown, or need a refresher on syntax, you can view the <a href="https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax">Github Markdown guide</a> for some useful tips and tricks.</p>
+
+<h2 id="how-to-install-jekyll-locall">How to Install Jekyll Locall</h2>
+
+<p>First thing you need to do is install Jekyll on your machine. This can be done by following the Jekyll specific installation guide for your platform of choice. <a href="https://jekyllrb.com/docs/installation/">Jekyll Install Guide</a></p>
+
+<h2 id="jekyll-theme-guide">Jekyll Theme Guide</h2>
+
+<p>We are using a specifc open-sourced Jekyll theme for this site. The documentation (and a great example of what can be done on the site) is here: <a href="https://idratherbewriting.com/documentation-theme-jekyll/index.html">Theme Documentation</a></p>
+
+<h2 id="fork-the-repository">Fork the repository</h2>
+<p>You’ll want to create a fork of the <a href="https://github.com/keycult/keycult-resources">Keycult Resources</a> repository before you can make any changes. In the top right of the Github repository, you’ll see a button to “Fork”. This will create an copy of the Keycult Resources repository in your Github account. More information of Forks can be found here: <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">Github Forks</a>.</p>
+
+<h2 id="building-the-site">Building the site</h2>
+
+<p>Once you have the prerequisites installed, clone the newly forked repo to your machine. To build the site, run the following command:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div></div>
+<p>This will build the site, and run it on localhost at port 4000. Open your web browser and navigate to <a href="http://localhost:4000/">localhost:4000</a>. You can now start making changes to the site. As you make changes to the site and modify files, the site will automatically rebuild. Just refresh your web browser to see the latest changes.</p>
+
+<blockquote>
+  <p><em>If you are on Windows, you’ll need to add <code class="language-plaintext highlighter-rouge">gem "tzinfo-data" </code>to the GemFile as the bundler won’t be able to detect your timezone. Adding this will give it access and allow you to build the website. Make sure to remove this out of the GemFile before submitting a Pull Request.</em></p>
+</blockquote>
+
+<h2 id="quick-development-guide">Quick Development Guide</h2>
+
+<p>Now that you have the site up and running, here are a few tips and tricks to get you started.</p>
+
+<h3 id="1-branches">1. Branches</h3>
+
+<p><strong>main:</strong> As the name implies, this is the main branch of the repository. Any pull requests should be from main. When changes are detected on this branch, the changes are built and deployted.</p>
+
+<p><strong>gh-pages:</strong> This branch is where the built website content is put after it is built off of the main branch. Changes are automatically pushed to this branch once the content in main is built. You should <em>not</em> submit any code to this branch.</p>
+
+<p><strong>feature branches:</strong> These are the branches where you can make changes. Create a branch off of master with the following naming <code class="language-plaintext highlighter-rouge">&lt;name&gt;/&lt;change&gt;</code>. For example: <code class="language-plaintext highlighter-rouge">obsidian/updating-how-to-guide</code>. This allows a moderator to easily see who has written what branch when going through pull requests.</p>
+
+<p><em>Hint:</em> To quickly create a branch when you have main checked out, run the following:</p>
+
+<p>To make sure you have the most up to date code</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git pull                            # make sure you have the most up to date code
+</code></pre></div></div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git checkout -b &lt;branch-name&gt;       # will create a branch with &lt;branch-name&gt;
+</code></pre></div></div>
+<p>Please make sure that your branch matches the above format described in <code class="language-plaintext highlighter-rouge">feature branches</code>.</p>
+
+<h3 id="2-file-structure">2. File Structure</h3>
+
+<p>All of the page content is located in the following directory <code class="language-plaintext highlighter-rouge">//pages/mydoc/</code>. Here you will find the markdown files for each page.</p>
+
+<h3 id="3-editing-the-sidebar">3. Editing the Sidebar</h3>
+
+<p>The sidebar is described in the YAML file: <code class="language-plaintext highlighter-rouge">//_data/sidebars/mydoc_sidebar.yml</code>. This file must be edited carefully when updating page content or page order.</p>
+
+<h2 id="submitting-a-pull-request">Submitting a Pull Request</h2>
+
+<p>Once you have finished the changes that you want to make on your feature branch, it is time to open a pull request. This is usually easist from the GitHub website. Navigate to <a href="https://github.com/keycult/keycult-resources/pulls">the pull request page for this respoitory</a>. You should see your branch with a green button to create a pull request into the <code class="language-plaintext highlighter-rouge">main</code> branch. Add some information about what you changed, and submit it for approval. Once it passes the automated testing, and is reviewed by the moderation team, it will be merged into <code class="language-plaintext highlighter-rouge">main</code> and the site will automatically be updated.</p>
+
+<h2 id="adding-a-new-page">Adding a new page</h2>
+
+<p>There are a few things that you need to do to add a new page. Please follow these steps:</p>
+
+<h3 id="1-create-your-new-file">1. Create your new file</h3>
+
+<p>Create a new file for your page with the following format: <code class="language-plaintext highlighter-rouge">//pages/mydoc/&lt;category&gt;_&lt;page-name&gt;</code>. For example this page name is <code class="language-plaintext highlighter-rouge">//pages/mydoc/overview_how_to_contribute_full.md</code></p>
+
+<h3 id="2-add-the-following-header-to-your-page">2. Add the following header to your page</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+title: "How to Contribute - Full Guide"
+keywords: contribution guide
+tags: [getting_started]
+sidebar: mydoc_sidebar
+permalink: overview_how_to_contribute_full.html
+summary: This page will explain how to get the Jekyll enviornment setup on your local machine, so you can test changes like creating new pages, changing navigation, etc.
+---
+</code></pre></div></div>
+<p>Fill in the information accordingly. The following fields must be changed:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">title</code> - title of this page</li>
+  <li><code class="language-plaintext highlighter-rouge">permalink</code> - the name of this file, but with the extension <code class="language-plaintext highlighter-rouge">.html</code></li>
+  <li><code class="language-plaintext highlighter-rouge">summary</code> - a summary of the information on your page. This will show up if your link is embedded in somewhere like Discord.</li>
+</ul>
+
+<h3 id="3-add-your-page-to-the-sidebar">3. Add your page to the sidebar:</h3>
+
+<p>You must now add your page to the appropriate spot in the sidebar YAML file. Here is the YAML entry for this page:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    - title: How to Contribute - Full Guide
+      url: /overview_how_to_contribute_full.html
+      output: web, pdf
+</code></pre></div></div>
+
+<h3 id="4-confirm-your-changes">4. Confirm your changes</h3>
+
+<p>Build locally and check <a href="http://localhost:4000/">localhost:4000</a> to make sure your page is added successfully. You should be able to navigate to your new page using the sidebar.</p>
+
+<h3 id="5-add-your-content">5. Add your content</h3>
+
+<p>The hard work is done! Now just add your content to your new page in markdown and you’re good to go!</p>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="tag_getting_started.html" class="btn btn-default navbar-btn cursorNorm" role="button">getting_started</a>
+        
+        
+        
+    </div>
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2024 Keycult. All rights reserved. <br />
+ Site last generated: Feb 27, 2024 <br />
+<p><img src="images/company_logo.png" alt="Company logo"/></p>
+                </div>
+            </div>
+</footer>
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+<!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','G-83VB9TSFCS','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-83VB9TSFCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-83VB9TSFCS');
+</script>
+
+
+</html>

@@ -1,0 +1,254 @@
+[
+
+
+
+
+{
+"title": "Plate Files",
+"tags": "downloads",
+"keywords": "downloads plate files",
+"url": "downloads_plate_files.html",
+"summary": "Plate files for Keycult keyboards for personal use"
+}
+,
+
+
+
+{
+"title": "Keycult FAQ",
+"tags": "faq",
+"keywords": "faq",
+"url": "faq_keycult_faq.html",
+"summary": "Keycult and Keycult accessories FAQ"
+}
+,
+
+
+
+{
+"title": "Drawing FAQ",
+"tags": "faqdrawing",
+"keywords": "faq",
+"url": "faq_drawing_faq.html",
+"summary": "Common drawing questions"
+}
+,
+
+
+
+
+
+{
+"title": "Keycult Resources Overview",
+"tags": "getting_started",
+"keywords": "Homepage",
+"url": "index.html",
+"summary": "This site is meant to be a community driven resource related to Keycult products. Please feel free to make suggestions and contribute through our GitHub linked above."
+}
+,
+
+
+
+{
+"title": "How to Contribute - Full Guide",
+"tags": "getting_started",
+"keywords": "contribution guide",
+"url": "overview_how_to_contribute_full.html",
+"summary": "This page will explain how to get the Jekyll enviornment setup on your local machine, so you can test changes like creating new pages, changing navigation, etc."
+}
+,
+
+
+
+{
+"title": "How to Contribute - Small Changes",
+"tags": "getting_started",
+"keywords": "contribution guide",
+"url": "overview_how_to_contribute_small.html",
+"summary": "This page explains how to quickly make a small change to the site with little effort"
+}
+,
+
+
+
+
+
+{
+"title": "Drawing Information and Rules",
+"tags": "drawing",
+"keywords": "drawing",
+"url": "drawing_info_rules.html",
+"summary": "Explanation of the Keycult drawing system and the rules about entering drawings"
+}
+,
+
+
+
+{
+"title": "Drawing Troubleshooting",
+"tags": "drawing",
+"keywords": "drawing",
+"url": "drawing_troubleshooting.html",
+"summary": "Common Keycult drawing troubleshooting steps"
+}
+,
+
+
+
+
+
+
+
+{
+"title": "Accessory Specs",
+"tags": "specifications",
+"keywords": "accessories",
+"url": "specs_accessories.html",
+"summary": "Specifications for Keycult Accessories"
+}
+,
+
+
+
+{
+"title": "Keycult No. 1/60 &amp; No. 1/65",
+"tags": "specifications",
+"keywords": "no 1 60 65",
+"url": "specs_no_1_60_65.html",
+"summary": "Specifications for the Keycult No. 1/60 and the Keycult No. 1/65"
+}
+,
+
+
+
+{
+"title": "Keycult No. 1",
+"tags": "specifications",
+"keywords": "no 1 tkl",
+"url": "specs_no_1_tkl.html",
+"summary": "Specifications for the Keycult No. 1 TKL"
+}
+,
+
+
+
+{
+"title": "Keycult No. 2/65",
+"tags": "specifications",
+"keywords": "no 2 65",
+"url": "specs_no_2_65.html",
+"summary": "Specifications for the Keycult No. 2/65"
+}
+,
+
+
+
+{
+"title": "Keycult No. 2",
+"tags": "specifications",
+"keywords": "no 2 tkl",
+"url": "specs_no_2_tkl.html",
+"summary": "Specifications for the Keycult No. 2 TKL"
+}
+,
+
+
+
+{
+"title": "Master Screw List &amp; Sound Demos",
+"tags": "specifications",
+"keywords": "screws sounds demo test sound size",
+"url": "specs_screws_and_sounds.html",
+"summary": "Specifications for Screw Sizes and Sound Demo Collection"
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Troubleshooting Build Issues",
+"tags": "troubleshooting",
+"keywords": "troubleshooting build",
+"url": "troubleshooting_build_issues.html",
+"summary": "Common Keycult build related issues and how to solve them"
+}
+,
+
+
+
+{
+"title": "Troubleshooting PCB Issues",
+"tags": "troubleshooting",
+"keywords": "troubleshooting pcb",
+"url": "troubleshooting_pcb_issues.html",
+"summary": "Common PCB related issues and how to solve them"
+}
+,
+
+
+
+{
+"title": "Vickrey Information and Rules",
+"tags": "vickrey",
+"keywords": "vickrey",
+"url": "vickrey_info_rules.html",
+"summary": "Explanation of the Keycult Vickrey system and the rules about entering Vickrey Auctions"
+}
+,
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "assetscssstyle.css",
+"summary": ""
+}
+
+
+
+
+
+
+]

@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Keycult and Keycult accessories FAQ">
+<meta name="keywords" content="faq,  faq">
+<title>Keycult FAQ | Keycult Resources</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
+<link rel="stylesheet" href="css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="css/theme-blue.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- Anchor.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="keycult-resources" href="https://github.com/feed.xml">
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Keycult Resources</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="https://keycult.com" target="_blank" rel="noopener">Main Site</a></li>
+                
+                
+                
+                <li><a href="https://github.com/keycult/keycult-resources" target="_blank" rel="noopener">GitHub</a></li>
+                
+                
+                
+                <li><a href="https://keycult.com/discord" target="_blank" rel="noopener">Keycult Discord</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Pages<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2019-release" target="_blank" rel="noopener">No. 1 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/january-2019-release" target="_blank" rel="noopener">No. 1/60 & 1/65</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/december-2019-preorder" target="_blank" rel="noopener">No. 1/60 Rev. 1 & 1/65 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/june-2020-preorder" target="_blank" rel="noopener">No. 1 Rev. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/april-2019-release" target="_blank" rel="noopener">No. 2</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/july-2019-preorder" target="_blank" rel="noopener">No. 2 Rev. 1</a></li>
+                        
+                        
+                        
+                        <li><a href="https://keycult.com/collections/rolling-releases/products/no-2-65" target="_blank" rel="noopener">No. 2/65</a></li>
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Keycult FAQ">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Site Navigation </li>
+  
+  
+  
+      
+  
+  <li>
+      <a title="Overview" href="#">Overview</a>
+      <ul>
+          
+          
+          
+          <li><a title="Introduction" href="index.html">Introduction</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="How to Contribute - Small Changes" href="overview_how_to_contribute_small.html">How to Contribute - Small Changes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="How to Contribute - Full Guide" href="overview_how_to_contribute_full.html">How to Contribute - Full Guide</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Specifications" href="#">Specifications</a>
+      <ul>
+          
+          
+          
+          <li><a title="Keycult No. 1 TKL" href="specs_no_1_tkl.html">Keycult No. 1 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 1/60 & No. 1/65" href="specs_no_1_60_65.html">Keycult No. 1/60 & No. 1/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2 TKL" href="specs_no_2_tkl.html">Keycult No. 2 TKL</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Keycult No. 2/65" href="specs_no_2_65.html">Keycult No. 2/65</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Accessories" href="specs_accessories.html">Accessories</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Screw Sizes & Sound Tests" href="specs_screws_and_sounds.html">Screw Sizes & Sound Tests</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Drawing Info" href="#">Drawing Info</a>
+      <ul>
+          
+          
+          
+          <li><a title="Information and Rules" href="drawing_info_rules.html">Information and Rules</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubleshooting" href="drawing_troubleshooting.html">Troubleshooting</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Vickrey Info" href="#">Vickrey Info</a>
+      <ul>
+          
+          
+          
+          <li><a title="Information and Rules" href="vickrey_info_rules.html">Information and Rules</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Downloads" href="#">Downloads</a>
+      <ul>
+          
+          
+          
+          <li><a title="Plate Files" href="downloads_plate_files.html">Plate Files</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="???" href="https://www.keycult.icu/" target="_blank" rel="noopener">???</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="FAQs" href="#">FAQs</a>
+      <ul>
+          
+          
+          
+          <li class="active"><a title="Keycult FAQ" href="faq_keycult_faq.html">Keycult FAQ</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Drawing FAQ" href="faq_drawing_faq.html">Drawing FAQ</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Troubleshooting" href="#">Troubleshooting</a>
+      <ul>
+          
+          
+          
+          <li><a title="PCB Issues" href="troubleshooting_pcb_issues.html">PCB Issues</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Build Issues" href="troubleshooting_build_issues.html">Build Issues</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+      
+      <!-- if you aren't using the accordion, uncomment this block:
+         <p class="external">
+             <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+         </p>
+         -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header">
+   <h1 class="post-title-main">Keycult FAQ</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">Keycult and Keycult accessories FAQ</div>
+   
+
+    
+
+
+    
+
+   <p>This is meant to be a collection of commonly asked questions and their answers. This is by no means a complete list, but we hope that by reading through this, you will be able to answer some basic and frequent questions we get a lot.</p>
+
+<h2 id="faq">FAQ</h2>
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapse1">Can you explain the naming of your keyboards, what is the difference between No. 1 / No. 2 / No .1/65, etc.?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse1" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Keycult keyboards are all named off their design language and their formfactor. The three current design languages are the No. 1, No. 2, and No. 3. Each has its own aesthetics, qualities, and differences. The default for each design language is a TKL, meaning that a “No. 1” is the No. 1 design language in a TKL form factor. A “No. 1/65” is the No. 1 design language, in a 65% formfactor. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapse2">What current designs / form factors exist?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse2" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Currently the following designs exist:
+                                <ul>
+                                  <li>No. 1</li>
+                                  <li>No. 1/60</li>
+                                  <li>No. 1/65</li>
+                                  <li>No. 2</li>
+                                  <li>No. 2/65</li>
+                                  <li>No. 3 (Currently unreleased)</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse3">What do the revision numbers mean?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse3" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Each time we tweak a design, that is considered a new revision. These changes might be small, or large.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse4">Will the plate from different designs fit each other? (Ex: Will a No. 2 plate fit a No. 1?)</a>
+                            </h4>
+                        </div>
+                        <div id="collapse4" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <ul>
+                                    <li>No. 1 vs. No. 2 plates are not interchangeable</li>
+                                    <li>No. 1 Rev. 2 plates will work on No. 1 Rev. 1</li>
+                                        <ul>
+                                            <li>Note: Use without alignment pins</li>
+                                        </ul>
+                                    <li>No. 2 Rev. 1 plates will work on original No. 2</li>
+                                        <ul>
+                                            <li>Note: Use without alignment pins</li>
+                                        </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse5">Does Keycult support ISO?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse5" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Not really; however, the WTXX-G-GRAPHITE PCBs do support ISO. You will need to get your own plate cut though.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse6">Will the WTXX PCB fit a non Keycult keyboard?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse6" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                These PCB's are designed to work with Keycult keyboards, and probably will not fit other cases. If buying for another case, make sure it will fit.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse7">Will X PCB fit a Keycult keyboard?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse7" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                The recommended supported PCBs are the ones sold on the Keycult store at <a href="https://keycult.com/collections/accessories" target="_blank">here</a>. The following PCBs will also fit as well.
+                                <ul>
+                                    <li>No. 1/60: WT60-G</li>
+                                    <li>No. 1/65 or No. 2/65: WT65-G</li>
+                                    <li>TKL: WT80-G (Note: This PCB will NOT work on the original No. 1)</li>
+                                        <ul>
+                                            <li>Note: This PCB will NOT work on the original No. 1. Please refer to the spreadsheet <a href="https://docs.google.com/spreadsheets/d/1GpM--fKeDw_tIDZj4m2jmbMavSyXeOu3QHzfTJwz-IM/edit#gid=0" target="_blank">here</a> for other options</li>
+                                        </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse8">Are plate files available?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse8" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Yes, for non-commercial, personal use. You can find them here: <a href="/downloads_plate_files.html">Plate Files</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse9">How do I program my PCB?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse9" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Keycult PCBs are programmed using VIA, a desktop application that allows on-the-fly key-remapping without having to flash your PCB. You can download the latest release and learn more at <a href="https://caniusevia.com/" target="_blank">https://caniusevia.com/</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse10">How do I clean my board?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse10" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                For anodized aluminum and brass parts, its recommended to use some warm water and a drop or two of soap.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapse11">How do I remove brass tarnish?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse11" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                Step 1. Embrace the tarnish. <br />
+                                Step 2. If tarnish still bothers you, repeat step 1.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" href="#collapse12">How do I even buy one of these?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse12" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                We’ve written about this here: <a href="https://keycult.com/a/tools/drawings" target="_blank">Keycult - Drawings</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse13">When will X be available again?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse13" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                We recommend you checkout <a href="https://keycult.com/discord" target="_blank">our Discord server</a> for the most up to date information. We post updates and new release information in #updates-and-releases.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse14">Can I pay with PayPal?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse14" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                No, Keycult no longer accepts PayPal for purchases made through our store. This is for two reasons: 1) PayPal has changed its policy in regards to refunds to not return PayPal fees if a refund is issued. We believe this is anti-consumer and anti-business. 2) PayPal has become increasingly heavy-handed in enforcing its long-standing policy against any preorder that takes longer than 20 days to fulfill, potentially jeopardizing our account if we allow PayPal for preorder payments. <br />
+                                <br />
+                                We accept all major credit cards as well as debit/bank cards that have a major credit card's logo on them (acquired from nearly every major bank).
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse15">Where can we find updates on keyboard releases/preorders?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse15" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Check out our discord server. #updates-and-releases will have the most up to date information. :)
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse16">When will plates for X be restocked? When will PCBs be restocked?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse16" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                We recommend you cut your own plates. We've provided plate files here as well for you to use! Because of the chip shortage, we are no longer able to provide extra PCBs for the time being. You can always check out our friend https://salvun.com/ who carries graphite PCBs that are compatible with Keycult boards. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse17">Do millmax sockets work with Keycult PCBs?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse17" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                We have not done any internal testing but a few users have found that millmax 7305 works well whereas 0305 has some fitment issues with the bottom row touching the case. Millmax at your own risk!
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse18">How do I change the address on my order?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse18" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Please either respond to your order confirmation email, or send an email support@keycult.com and put "Address change" in the subject. Make sure to add order number in the email itself too!
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse19">How do we identify an authentic Keycult?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse19" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                The most clear cut way is to purchase from Keycult directly. We understand there still might be some concerns with aftermarket purchases, so it would be best to ask about provenance IE order confirmation email, auth card, etc.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse20">Are Keycult plates backwards compatible?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse20" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. If you don't use the pins, then no problem. 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse21">Are Keycult parts interchangable between revisions?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse21" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Plates are interchangable between revisions but tolerances and dimensions are usually tweaked slightly between revisions. We can't promise they will fit together nicely. If you are trying to use a part from the same revision it should fit.  
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse22">I have questions about raw boards. Where do I find the answers?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse22" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                We've created a Raw FAQ to help answer your questions: https://docs.google.com/document/d/1E6ocBsb-r-zqYzhSYQEURBOlioBUQTh6x68BnvsAhiw/edit?usp=sharing
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="tag_faq.html" class="btn btn-default navbar-btn cursorNorm" role="button">faq</a>
+        
+        
+        
+    </div>
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2024 Keycult. All rights reserved. <br />
+ Site last generated: Feb 27, 2024 <br />
+<p><img src="images/company_logo.png" alt="Company logo"/></p>
+                </div>
+            </div>
+</footer>
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+<!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','G-83VB9TSFCS','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-83VB9TSFCS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-83VB9TSFCS');
+</script>
+
+
+</html>

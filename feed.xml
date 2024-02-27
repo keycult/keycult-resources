@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>keycult-resources</title>
+        <description>This is intended to be an easyily accesible way to store and distribute information for Keycult products. This includes FAQs, plate files, and other useful information for Keycult keyboard owners.</description>
+        <link>https://github.com/</link>
+        <atom:link href="https://github.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 27 Feb 2024 18:37:38 -0500</pubDate>
+        <lastBuildDate>Tue, 27 Feb 2024 18:37:38 -0500</lastBuildDate>
+        <generator>Jekyll v3.9.3</generator>
+        
+    </channel>
+</rss>
