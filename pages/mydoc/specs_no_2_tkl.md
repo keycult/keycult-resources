@@ -38,7 +38,12 @@ Limited to sales, commission colors are not listed
     - Satin
 - Black & Silver Hammertone (Powdercoat)
     - Brushed Red Waves
-    - Brushed Silver Waves  
+    - Brushed Silver Waves
+- Dark Blue (Powdercoat)
+    - Silver Waves
+- Blue Titanium (Cerakote)
+    - Silver Anodized Waves
+- Raw  
 
 There are some OG No. 2 TKLs out there that had a small private run by EVE. They have unique colorways.
 You can always ping us in Discord if you are curious if it is official or not.
