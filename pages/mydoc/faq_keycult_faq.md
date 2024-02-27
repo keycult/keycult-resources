@@ -315,5 +315,18 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                     </div>
                     <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse22">I have questions about raw boards. Where do I find the answers?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse22" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                We've created a Raw FAQ to help answer your questions: https://docs.google.com/document/d/1E6ocBsb-r-zqYzhSYQEURBOlioBUQTh6x68BnvsAhiw/edit?usp=sharing
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
